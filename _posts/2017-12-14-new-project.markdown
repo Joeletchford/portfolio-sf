@@ -2,7 +2,7 @@
 layout: post
 title:  "The Kelly"
 date:   2017-12-28 01:43:32 -0400
-img: https://www.underconsideration.com/brandnew/archives/stumptown_packaging_new_big_01.jpg
+img: /images/fuzz-space-3.gif
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
