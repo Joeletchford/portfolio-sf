@@ -1,8 +1,3 @@
-@import "https://fonts.googleapis.com/css?family=Roboto:400,700";
-.roboto {
-  font-family: "Roboto";
-  letter-spacing: .05em; }
-
 .cf {
   clear: both; }
 
@@ -14,13 +9,27 @@
   padding-right: 0;
   margin-right: 0; }
 
-.box {
-  background-color: grey;
-  width: 100%;
-  height: 100%; }
+@font-face {
+  font-family: 'Circular';
+  src: url("/fonts/CircularStd-Book.woff"); }
+.circular {
+  font-family: 'Circular';
+  font-weight: lighter; }
 
-.hbox {
-  height: 600px; }
+@font-face {
+  font-family: 'Vulture';
+  src: url("/fonts/ThePyteFoundry--Vulture.woff"); }
+.vulture {
+  font-family: 'Vulture'; }
 
-.vbox {
-  height: 600px; }
+@font-face {
+  font-family: 'Nihilist';
+  src: url("/fonts/ThePyteFoundry--Nihilist.woff"); }
+.nihilist {
+  font-family: 'Nihilist'; }
+
+@font-face {
+  font-family: 'Alcove';
+  src: url("/fonts/ThePyteFoundry--Alcove.woff"); }
+.alcove {
+  font-family: 'Alcove'; }

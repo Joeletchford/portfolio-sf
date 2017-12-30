@@ -2,12 +2,12 @@
 # Overwrite Tachyons here. Don't go overboard!
 ---
 
-@import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
+// @import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
 
-.roboto {
-  font-family: "Roboto";
-  letter-spacing: .05em;
-}
+// .roboto {
+//   font-family: "Roboto";
+//   letter-spacing: .05em;
+// }
 
 .cf {
   clear: both;
@@ -26,19 +26,42 @@
     margin-right: 0;
   }
 }
-.box{
-  background-color: grey;
-  width: 100%;
-  height: 100%;
+
+
+@font-face {
+  font-family: 'Circular';
+  src: url("/fonts/CircularStd-Book.woff");
+	}
+
+.circular{
+	font-family: 'Circular';
+	font-weight: lighter;
 }
 
-.hbox{
+@font-face {
+  font-family: 'Vulture';
+  src: url("/fonts/ThePyteFoundry--Vulture.woff");
+	}
 
-  height:600px;
+.vulture{
+	font-family: 'Vulture';
+}
+
+@font-face {
+  font-family: 'Nihilist';
+  src: url("/fonts/ThePyteFoundry--Nihilist.woff");
+	}
+
+.nihilist{
+	font-family: 'Nihilist';
 }
 
 
-.vbox{
+@font-face {
+  font-family: 'Alcove';
+  src: url("/fonts/ThePyteFoundry--Alcove.woff");
+	}
 
-  height:600px;
+.alcove{
+	font-family: 'Alcove';
 }
