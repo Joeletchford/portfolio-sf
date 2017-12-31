@@ -1,3 +1,6 @@
+.right {
+  float: right; }
+
 .cf {
   clear: both; }
 
@@ -10,13 +13,13 @@
   margin-right: 0; }
 
 @font-face {
-  font-family: 'circularbook';
-  src: "fonts/circularbook.woff" format("woff"); }
+  font-family: 'CircularStd-Book';
+  src: url("/fonts/CircularStd-Book.otf"); }
 .circular {
-  font-family: 'circularbook' sans-serif; }
+  font-family: 'CircularStd-Book'; }
 
 @font-face {
-  font-family: "ThePyteFoundry--Alcove";
-  src: url("fonts/ThePyteFoundry--Alcove.woff") format("woff"), url("fonts/ThePyteFoundry--Alcove.otf") format("otf"); }
+  font-family: 'ThePyteFoundry--Alcove';
+  src: url("/fonts/ThePyteFoundry--Alcove.otf"); }
 .alcove {
   font-family: 'ThePyteFoundry--Alcove'; }

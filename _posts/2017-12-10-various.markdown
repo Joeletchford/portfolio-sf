@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Various Projects"
+date:   2017-12-28 01:43:32 -0400
+img: images/wydown/wydown-logo.jpg
+subhead: Information
+information: This is a collection of various projects that I have collated in no particular order. They are included here because, in some form or another, they informed and helped shape my growth as a designer.
+
+---
+<!--
+![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
+
+
+<div class="flex flex-column flex-row-l" markdown="1">
+![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .pl3-ns w-60 }
+<p class="pr3-ns w-50-l w-100">
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. </p>
+
+</div>
+
+<!-- ~~~
+
+~~~ -->
+
+
+<div class="flex flex-column flex-row-l pb3-l pb6" markdown="1">
+<p class="pr3-ns w-50-l w-100 order-1 order-2-l">
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. </p>
+
+![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .pl3-ns w-60 }
+</div>

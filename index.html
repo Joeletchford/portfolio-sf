@@ -11,7 +11,7 @@ layout: default
   <div class="ph3 pv5-ns pt5 pb4">
       <div class="cf">
         <div class="fl">
-          <p class="f3 measure"> <span class="alcove">Joe Letchford </span> is a multi-disciplinary graphic designer from Richmond, Virginia focusing on print and digital design solutions. He thrives in collaboration and fucuses on systematic design solutions, weather in his personal practice or professional. His personal work focuses predominately on exploring the natural environment and the different ways that we as a digitally literate society interact with it.</p>
+          <p class="f3 measure"> <span class="alcove f2">Joe Letchford </span> is a multi-disciplinary graphic designer from Richmond, Virginia focusing on print and digital design solutions. He thrives in collaboration and fucuses on systematic design solutions, weather in his personal practice or professional. His personal work focuses predominately on exploring the natural environment and the different ways that we as a digitally literate society interact with it.</p>
           </div>
         </div>
     </div>
@@ -82,9 +82,9 @@ layout: default
       <div class="cf">
         {% for post in site.posts %}
 
-        <div class="fl-ns pa2 pa2 vh-50  mw7-m w-100">
-          <a href="{{ site.baseurl }}{{ post.url }}" class="link dt hide-child bg-center h-100 w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
-            <p class="f3 lh-copy w-100 white tc dtc v-mid child bg-black-40 pa5">
+        <div class="fl-ns pa2 pa2 vh-50 mw7-m w-100">
+          <a href="{{ site.baseurl }}{{ post.url }}" class="link dt hide-child bg-center cover h-100-ns w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
+            <p class="f3 lh-copy w-100  white tc dtc v-mid child bg-black-40 pa5">
             {{ post.title }}
             </p>
           </a>
