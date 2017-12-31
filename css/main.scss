@@ -29,39 +29,38 @@
 
 
 @font-face {
-  font-family: 'Circular';
+  font-family: 'CircularStd-Book';
   src: url("fonts/CircularStd-Book.woff") format("woff");
 	}
 
 .circular{
-	font-family: 'Circular';
-	font-weight: lighter;
+	font-family: 'CircularStd-Book';
 }
 
 @font-face {
-  font-family: 'Vulture';
+  font-family: 'ThePyteFoundry--Vulture';
   src: url("fonts/ThePyteFoundry--Vulture.woff") format("woff");
 	}
 
 .vulture{
-	font-family: 'Vulture';
+	font-family: 'ThePyteFoundry--Vulture';
 }
 
 @font-face {
-  font-family: 'Nihilist';
+  font-family: 'ThePyteFoundry--Nihilist';
   src: url("fonts/ThePyteFoundry--Nihilist.woff") format("woff");
 	}
 
 .nihilist{
-	font-family: 'Nihilist';
+	font-family: 'ThePyteFoundry--Nihilist';
 }
 
 
 @font-face {
-  font-family: 'Alcove';
+  font-family: 'ThePyteFoundry--Alcove';
   src: url("fonts/ThePyteFoundry--Alcove.woff")format("woff");
 	}
 
 .alcove{
-	font-family: 'Alcove';
+	font-family: 'ThePyteFoundry--Alcove';
 }
