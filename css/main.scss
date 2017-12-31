@@ -28,37 +28,23 @@
 }
 
 
+
+
 @font-face {
-  font-family: 'CircularStd-Book';
-  src: url("fonts/CircularStd-Book.woff") format("woff");
+  font-family: 'circularbook';
+  src: url("fonts/circularbook.woff") format("woff");
 	}
 
 .circular{
-	font-family: 'CircularStd-Book' sans-serif;
-}
-
-@font-face {
-  font-family: 'ThePyteFoundry--Vulture';
-  src: url("fonts/ThePyteFoundry--Vulture.woff") format("woff");
-	}
-
-.vulture{
-	font-family: 'ThePyteFoundry--Vulture';
-}
-
-@font-face {
-  font-family: 'ThePyteFoundry--Nihilist';
-  src: url("fonts/ThePyteFoundry--Nihilist.woff") format("woff");
-	}
-
-.nihilist{
-	font-family: 'ThePyteFoundry--Nihilist';
+	font-family: 'circularbook' sans-serif;
 }
 
 
 @font-face {
-  font-family: 'ThePyteFoundry--Alcove';
-  src: url("fonts/ThePyteFoundry--Alcove.woff")format("woff");
+  font-family: "ThePyteFoundry--Alcove";
+  src:
+	url("fonts/ThePyteFoundry--Alcove.woff") format("woff"),
+	url("fonts/ThePyteFoundry--Alcove.otf") format("otf");
 	}
 
 .alcove{
