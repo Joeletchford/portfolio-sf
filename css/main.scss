@@ -30,7 +30,7 @@
 
 @font-face {
   font-family: 'Circular';
-  src: url("/fonts/CircularStd-Book.woff");
+  src: url("/fonts/CircularStd-Book.woff") format("woff");
 	}
 
 .circular{
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: 'Vulture';
-  src: url("/fonts/ThePyteFoundry--Vulture.woff");
+  src: url("/fonts/ThePyteFoundry--Vulture.woff") format("woff");
 	}
 
 .vulture{
@@ -49,7 +49,7 @@
 
 @font-face {
   font-family: 'Nihilist';
-  src: url("/fonts/ThePyteFoundry--Nihilist.woff");
+  src: url("/fonts/ThePyteFoundry--Nihilist.woff") format("woff");
 	}
 
 .nihilist{
@@ -59,7 +59,7 @@
 
 @font-face {
   font-family: 'Alcove';
-  src: url("/fonts/ThePyteFoundry--Alcove.woff");
+  src: url("/fonts/ThePyteFoundry--Alcove.woff")format("woff");
 	}
 
 .alcove{
