@@ -3,7 +3,9 @@ layout: post
 title:  "The Kelly"
 date:   2017-12-28 01:43:32 -0400
 img: images/by-bill.jpg
-information: Branding,  Identity,  Web.
+subhead: Information
+information: .
+
 
 ---
 ![alt text]({{ site.baseurl }}/images/by-bill.jpg)

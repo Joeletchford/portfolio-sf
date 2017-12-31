@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: 'circularbook';
-  src: url("fonts/circularbook.woff") format("woff"); }
+  src: "fonts/circularbook.woff" format("woff"); }
 .circular {
   font-family: 'circularbook' sans-serif; }
 
