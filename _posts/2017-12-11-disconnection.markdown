@@ -3,24 +3,24 @@ layout: post
 title:  "Disconnection"
 date:   2017-12-28 01:43:32 -0400
 img: images/disconnection/disconnection.jpg
-
+head-img: /images/disconnection/images/Thesis-Cover-Option.jpg
+year: 2017
+type: Publication, Web, Exhibition.  
+location: Minneapolis, MN
+image_sliders:
+  - slider1
+image_sliders_load_all: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![kelly logo]({{ site.baseurl }}/images/disconnection){: .db .center .w-60 .mt4 .mt5-ns .pb5}
+<p class="alcove center"> logo </p>
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi-organisational functionality allows visitors to see and read about the work of each participant.
+
+
+![alt text]({{ site.baseurl }}/images/kelly/kelly-logo.png)
+![kelly logo outline]({{ site.baseurl }}/images/kelly-logo-outline.jpg)
