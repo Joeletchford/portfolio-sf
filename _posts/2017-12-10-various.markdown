@@ -12,67 +12,141 @@ location: Minneapolis, Richmond, DC.
 <!--
 ![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
 
-<p class="alcove f4 f3-ns"> Environment Application </p>
+<p class="alcove f4 f3-ns "> Half Baked, One-off, designed material to enjoy </p>
 
-The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.
+This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.
 
 
-
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![postcard]({{ site.baseurl }}/images/various/1-1.jpg){: .db .w-100 }
+<div class="fl w-100 ph2 " markdown="1">
+![Half]({{ site.baseurl }}/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 w-100-l pr2-l pb2" markdown="1">
-![postcard gif]({{ site.baseurl }}/images/various/1.gif){: .db .w-100 }
+<div class="fl w-100 ph2 " markdown="1">
+![Half]({{ site.baseurl }}/images/various/A4-Paper-PSD-MockUp-4.jpg){: .db .w-100 }
+</div>
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 ph2 " markdown="1">
+![postcard]({{ site.baseurl }}/images/various/postcard.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![postcard scan detail]({{ site.baseurl }}/images/various/1-2.jpg){: .db .w-100 }
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![rh web]({{ site.baseurl }}/images/various/RWD-browser_1.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+<div class="fl w-100 w-50-l  ph2 " markdown="1">
+![rh web]({{ site.baseurl }}/images/various/RWD-browser_2.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![rh web]({{ site.baseurl }}/images/various/RWD-browser_3.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![rh web]({{ site.baseurl }}/images/various/RWD-browser_4.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 ph2 " markdown="1">
+![Thesis diagram]({{ site.baseurl }}/images/various/presentation31.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<!-- flex box  -->
+<!-- <div class="w-100 center flex-l flex-nowrap-l" markdown="1">
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![look here]({{ site.baseurl }}/images/various/6.jpg){: .db .w-100 }
+</div>
+<div class="flex-l flex-column" markdown="1">
+<div class="fl w-100 ph2 flex-column " markdown="1">
+![new americans]({{ site.baseurl }}/images/various/7.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 ph2 flex-column" markdown="1">
+![new americans]({{ site.baseurl }}/images/various/8.jpg){: .db .w-100 }
+</div>
+</div>
+</div> -->
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
 ![fine arts]({{ site.baseurl }}/images/various/3.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+<div class="fl w-100 w-50-l ph2 " markdown="1">
 ![fine arts]({{ site.baseurl }}/images/various/4.jpg){: .db .w-100 }
 </div>
 
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![look here]({{ site.baseurl }}/images/various/5.jpg){: .db .w-100 }
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![eyes]({{ site.baseurl }}/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png){: .db .w-100 }
 </div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
-![new americans]({{ site.baseurl }}/images/various/7.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
-![new americans]({{ site.baseurl }}/images/various/8.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![new americans]({{ site.baseurl }}/images/various/7-1.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 pr2-l pb2" markdown="1">
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+
+<div class="fl w-100 ph2 " markdown="1">
 ![Masters of Sustainability]({{ site.baseurl }}/images/various/10.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100  pr2-l pb2" markdown="1">
-![Masters of Sustainability]({{ site.baseurl }}/images/various/11.jpg){: .db .w-100 }
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 ph2 " markdown="1">
+![tobacco]({{ site.baseurl }}/images/various/ tobacconomics_full.png){: .db .w-100 }
 </div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![baseline]({{ site.baseurl }}/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
 ![thesis]({{ site.baseurl }}/images/various/Thesis26.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+<div class="fl w-100 w-50-l ph2 " markdown="1">
 ![thesis]({{ site.baseurl }}/images/various/Thesis29.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 pr2-l pb2" markdown="1">
+<div class="fl w-100 ph2 " markdown="1">
 ![thesis]({{ site.baseurl }}/images/various/Thesis30.jpg){: .db .w-100 }
 </div>
 
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![Third Rail]({{ site.baseurl }}/images/various/12-2.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![Third Rail]({{ site.baseurl }}/images/various/12.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 pr2-l pb2" markdown="1">
-![NYC postcard]({{ site.baseurl }}/images/various/9.jpg){: .db .w-100 }
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![Third Rail]({{ site.baseurl }}/images/various/rowden.jpg){: .db .w-100 }
 </div>
 
+
+
+<div class="fl w-100 w-50-l  ph2 " markdown="1">
+![NYC postcard]({{ site.baseurl }}/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- ~~~
 
 ~~~ -->

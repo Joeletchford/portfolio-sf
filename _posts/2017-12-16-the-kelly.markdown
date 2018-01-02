@@ -2,21 +2,137 @@
 layout: post
 title:  "The Kelly Apartments"
 date:   2017-12-28 01:43:32 -0400
-img: images/kelly-logo.jpg
-head-img: /images/kelly/kelly-logo.png
+img: images/kelly/postcard3.png
+head-img: /images/kelly/postcard3.png
 year: 2017
 type: Identity, Web Design.  
 location: Bala Cynwyd, PA
 information:
 ---
 
-
-![kelly logo]({{ site.baseurl }}/images/kelly/kelly-logo.png){: .db .center .w-60 .mt4 .mt5-ns .pb5}
-
+ <p class="alcove f4 f3-ns"> Logo lockup and visual System </p>
 
 
-In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi-organisational functionality allows visitors to see and read about the work of each participant.
+This concept is inspired by the elegance of Grace Kelly and the golden age of Hollywood. An actress who redefined an era and exuded confidence, this design invites you to live as she did, in your own way. Clean and elevated, the “K” logo was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District. The accessibility of the designs and messaging invites potential residents to craft their own lives in this newly re-imagined small-town U.S.A.
 
 
-![alt text]({{ site.baseurl }}/images/kelly/kelly-logo.png)
-![kelly logo outline]({{ site.baseurl }}/images/kelly-logo-outline.jpg)
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![kelly]({{ site.baseurl }}/images/kelly/postcard3.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![kelly k break]({{ site.baseurl }}/images/kelly/postcard4.png){: .db .w-100 }
+</div>
+
+
+
+<div class="fl w-100  ph2 " markdown="1">
+![kelly grid]({{ site.baseurl }}/images/kelly/postcard5.png){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Printed Matter </p>
+
+The gridded system created to develop the K monogram carries throughout the brand system and .
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![kelly postcard front]({{ site.baseurl }}/images/kelly/postcard6.png){: .db .w-100 }
+</div>
+<div class="fl w-100 ph2 " markdown="1">
+![kelly postcard back]({{ site.baseurl }}/images/kelly/postcard7.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![kelly postcard front]({{ site.baseurl }}/images/kelly/postcard.png){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![kelly postcard back]({{ site.baseurl }}/images/kelly/postcard2.png){: .db .w-100 }
+</div>
+
+
+
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Web Development </p>
+
+The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.
+
+<div class="w-100  center flex-l flex-wrap-l" markdown="1">
+
+
+
+<div class="fl w-50-l ph2" markdown="1">
+![kelly land]({{ site.baseurl }}/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
+</div>
+
+
+<div class="fl w-50-l ph2 " markdown="1">
+![kelly fill home ]({{ site.baseurl }}/images/kelly/web/desk/Kelly_desktop_home.jpg){: .db  }
+</div>
+
+
+
+<div class="fl w-50-l ph2" markdown="1">
+![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
+</div>
+
+
+<div class="fl w-50-l ph2 " markdown="1">
+![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_Floorplan_detail.jpg){: .db  }
+</div>
+
+
+
+<div class="fl w-50-l ph2" markdown="1">
+![kelly neighborhood ]({{ site.baseurl }}/images/kelly/web/desk/Kelly_Neighborhood.jpg){: .db }
+</div>
+
+
+<div class="fl w-50-l ph2 " markdown="1">
+![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_nav option.jpg){: .db  }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Mobile Development </p>
+
+The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.
+
+<div class="w-100 w-80-l center flex-l flex-wrap-l" markdown="1">
+
+
+<div class="fl w-25-l ph2 " markdown="1">
+![kelly mobile land ]({{ site.baseurl }}/images/kelly/web/landing_page_mobile.jpg){: .db  }
+</div>
+<div class="fl w-25-l ph2" markdown="1">
+![kelly phome mobile]({{ site.baseurl }}/images/kelly/web/Home_mobile.jpg){: .db }
+</div>
+<div class="fl w-25-l ph2 " markdown="1">
+![floor plan ]({{ site.baseurl }}/images/kelly/web/Floorplan-landing.jpg){: .db  }
+</div>
+<div class="fl w-25-l ph2 " markdown="1">
+![floorplan]({{ site.baseurl }}/images/kelly/web/floorplans.jpg){: .db  }
+</div>
+<div class="fl w-25-l ph2 " markdown="1">
+![meniu]({{ site.baseurl }}/images/kelly/web/menu-mobile.jpg){: .db  }
+</div>
+<div class="fl w-25-l ph2" markdown="1">
+![kelly neighborhood ]({{ site.baseurl }}/images/kelly/web/neighborhood-mobile.jpg){: .db  }
+</div>
+<div class="fl w-25-l ph2" markdown="1">
+![kelly neighborhood]({{ site.baseurl }}/images/kelly/web/neighnorhood-click.jpg){: .db }
+</div>
+
+<div class="fl w-25-l ph2 " markdown="1">
+![image ]({{ site.baseurl }}/images/kelly/web/image-expanded-m.jpg){: .db  }
+</div>

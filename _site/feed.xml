@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jan 2018 10:33:29 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2018 10:33:29 -0500</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2018 16:30:19 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2018 16:30:19 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -32,12 +32,115 @@
     
       <item>
         <title>The Kelly Apartments</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/kelly/kelly-logo.png&quot; alt=&quot;kelly logo&quot; class=&quot;db center w-60 mt4 mt5-ns pb5&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Logo lockup and visual System &lt;/p&gt;
 
-&lt;p&gt;In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi-organisational functionality allows visitors to see and read about the work of each participant.&lt;/p&gt;
+&lt;p&gt;This concept is inspired by the elegance of Grace Kelly and the golden age of Hollywood. An actress who redefined an era and exuded confidence, this design invites you to live as she did, in your own way. Clean and elevated, the “K” logo was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District. The accessibility of the designs and messaging invites potential residents to craft their own lives in this newly re-imagined small-town U.S.A.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/kelly/kelly-logo.png&quot; alt=&quot;alt text&quot; /&gt;
-&lt;img src=&quot;/images/kelly-logo-outline.jpg&quot; alt=&quot;kelly logo outline&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Printed Matter &lt;/p&gt;
+
+&lt;p&gt;The gridded system created to develop the K monogram carries throughout the brand system and .&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Development &lt;/p&gt;
+
+&lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
+
+&lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_landing view.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_desktop_home.jpg&quot; alt=&quot;kelly fill home &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_floorplan_home.png&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Floorplan_detail.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Neighborhood.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_nav option.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+  &lt;!-- h2 --&gt;
+  &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Mobile Development &lt;/p&gt;
+
+  &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
+
+  &lt;div class=&quot;w-100 w-80-l center flex-l flex-wrap-l&quot;&gt;
+
+    &lt;div class=&quot;fl w-25-l ph2 &quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/landing_page_mobile.jpg&quot; alt=&quot;kelly mobile land &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2&quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/Home_mobile.jpg&quot; alt=&quot;kelly phome mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2 &quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/Floorplan-landing.jpg&quot; alt=&quot;floor plan &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2 &quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/floorplans.jpg&quot; alt=&quot;floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2 &quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/menu-mobile.jpg&quot; alt=&quot;meniu&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2&quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighborhood-mobile.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;fl w-25-l ph2&quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighnorhood-click.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;fl w-25-l ph2 &quot;&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/image-expanded-m.jpg&quot; alt=&quot;image &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
         <link>/2017/12/28/the-kelly.html</link>
@@ -122,19 +225,19 @@
         <title>Disconnection; A Neutral-Gear A Semi-Solid</title>
         <description>&lt;p&gt;The work presented in this application explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. Post-Digital is the discourse around the relationships between our technologies and their effects on us as humans. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -146,21 +249,21 @@
 
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-100-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -172,21 +275,21 @@
 
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-100-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -202,64 +305,123 @@
         <description>&lt;!--
 ![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
 
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Environment Application &lt;/p&gt;
+&lt;p class=&quot;alcove f4 f3-ns &quot;&gt; Half Baked, One-off, designed material to enjoy &lt;/p&gt;
 
-&lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
+&lt;p&gt;This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/1-1.jpg&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-100-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/1.gif&quot; alt=&quot;postcard gif&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/1-2.jpg&quot; alt=&quot;postcard scan detail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- flex box  --&gt;
+&lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
+&lt;div class=&quot;fl w-50-l w-100 ph2 &quot; markdown=&quot;1&quot;&gt;
+![look here](/images/various/6.jpg){: .db .w-100 }
+&lt;/div&gt;
+&lt;div class=&quot;flex-l flex-column&quot; markdown=&quot;1&quot;&gt;
+&lt;div class=&quot;fl w-100 ph2 flex-column &quot; markdown=&quot;1&quot;&gt;
+![new americans](/images/various/7.jpg){: .db .w-100 }
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 flex-column&quot; markdown=&quot;1&quot;&gt;
+![new americans](/images/various/8.jpg){: .db .w-100 }
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; --&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/5.jpg&quot; alt=&quot;look here&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/7.jpg&quot; alt=&quot;new americans&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/8.jpg&quot; alt=&quot;new americans&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/7-1.jpg&quot; alt=&quot;new americans&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/11.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/12-2.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/12.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/9.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;!-- ~~~
 
