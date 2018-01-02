@@ -20,12 +20,12 @@
 
 @font-face {
   font-family: 'CircularStd-Book';
-  src: url("../site/fonts/CircularStd-Book.otf"); }
+  src: url("../fonts/CircularStd-Book.otf"); }
 .circular {
   font-family: 'CircularStd-Book'; }
 
 @font-face {
   font-family: 'ThePyteFoundry--Alcove';
-  src: url("../site/fonts/ThePyteFoundry--Alcove.otf"); }
+  src: url("../fonts/ThePyteFoundry--Alcove.otf"); }
 .alcove {
   font-family: 'ThePyteFoundry--Alcove'; }
