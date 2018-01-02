@@ -14,9 +14,9 @@
 			  <div class="overflow-x-hidden-l overflow-x-scroll-l cf dib ph3  pt5 pb4 fl w-100 w-25-l w-100-m ">
 					<div class="cf">
 						<p class="hyphens alcove f3 f2-l measure lh-solid ">{{ page.title }}</p>
-						<h1 class="pv3 f6 bb "> <span class="alcove "> Year </span>— {{ page.year }}</h1>
-							<h1 class="pv3 f6 bb "><span class="alcove "> Scope  </span>— {{ page.type }}</h1>
-								<h1 class="pv3 f6  bb "><span class="alcove "> Location  </span>— {{ page.location }}</h1>
+						<p class="pv2 f6 bb "> <span class="alcove "> Year </span>— {{ page.year }}</p>
+							<p class="pv2 f6 bb "><span class="alcove "> Scope  </span>— {{ page.type }}</p>
+								<p class="pv2 f6  bb "><span class="alcove "> Location  </span>— {{ page.location }}</p>
 									<!-- <h1 class="pb3 f6 bb ">{{ page.information }}</h1> -->
 					</div>
 			  </div>
@@ -26,7 +26,7 @@
 				<div class="bg-black overflow-hidden-l vh-100-l overflow-scroll-l">
 					<div class="pb6 white bg-black fl fl-ns h-100 circular">
 					   <div class="db center-ns lh-copy">
-					      <img class="db center w-100 pb5" src="{{ site.baseurl }}/{{ page.head-img }}" alt="">
+					      <img class="db center w-100 pb5" src="{{ page.head-img }}" alt="">
 					      	<div class="f4-ns f6 pt-4 w-80-l w-100 center ph3">
 					      		{{ content }}
 					      	</div>
