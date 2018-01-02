@@ -87,7 +87,7 @@ layout: default
         {% for post in site.posts %}
 <!-- {{ site.baseurl }}/ -->
         <div class="fl-ns pa2 pa2 vh-50 mw7-m w-100">
-          <a href="{{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
+          <a href="{{ site.baseurl }}/{{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
             <h1 class="f3-ns f4 lh-copy w-100 white tc dtc v-mid child pb0 h-100  bg-black-80">
             {{ post.title }}
             <div class="alcove f6-ns f7 white lh-solid pt0"> {{ post.type }}</div>
