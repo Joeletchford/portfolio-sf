@@ -3,45 +3,45 @@
   <channel>
     <title>Joe Letchford Portfolio</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jan 2018 22:03:17 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2018 22:03:17 -0500</lastBuildDate>
+    <link>{{ site.baseurl }}//</link>
+    <atom:link href="{{ site.baseurl }}//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Jan 2018 22:04:01 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 22:04:01 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>The Wydown Website</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;measure f5&quot;&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;measure f5&quot;&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-wydown.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-wydown.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/the-wydown.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/the-wydown.html</guid>
         
         
       </item>
     
       <item>
         <title>The Kelly Apartments</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/kelly/kelly-logo.png&quot; alt=&quot;kelly logo&quot; class=&quot;db center w-60 mt4 mt5-ns pb5&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/kelly/kelly-logo.png&quot; alt=&quot;kelly logo&quot; class=&quot;db center w-60 mt4 mt5-ns pb5&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi-organisational functionality allows visitors to see and read about the work of each participant.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/kelly/kelly-logo.png&quot; alt=&quot;alt text&quot; /&gt;
-&lt;img src=&quot;/images/kelly-logo-outline.jpg&quot; alt=&quot;kelly logo outline&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/kelly/kelly-logo.png&quot; alt=&quot;alt text&quot; /&gt;
+&lt;img src=&quot;{{ site.baseurl }}//images/kelly-logo-outline.jpg&quot; alt=&quot;kelly logo outline&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-kelly.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-kelly.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/the-kelly.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/the-kelly.html</guid>
         
         
       </item>
@@ -64,8 +64,8 @@
 
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/nmb.html</link>
-        <guid isPermaLink="true">/2017/12/28/nmb.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/nmb.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/nmb.html</guid>
         
         
       </item>
@@ -88,8 +88,8 @@
 
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/graduate.html</link>
-        <guid isPermaLink="true">/2017/12/28/graduate.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/graduate.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/graduate.html</guid>
         
         
       </item>
@@ -99,41 +99,41 @@
         <description>&lt;p&gt;In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;In addition to the art direction of the Taipei Biennale visual identity we also provided the design and programming for the bilingual website, whose interface takes into consideration the conditions of reading onscreen; a defining element of the site is an online journal with texts that can be read via a lightbox or downloaded as PDFs. An online archive with multi&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis-Cover-Option.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/images/Thesis-Cover-Option.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/disconnection.html</link>
-        <guid isPermaLink="true">/2017/12/28/disconnection.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/disconnection.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/disconnection.html</guid>
         
         
       </item>
@@ -141,10 +141,10 @@
       <item>
         <title>Various Projects</title>
         <description>&lt;!--
-![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
+![alt text]({{ site.baseurl }}//images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
 
 &lt;div class=&quot;flex flex-column flex-row-l&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/third-rail.jpg&quot; alt=&quot;alt text&quot; class=&quot;pl3-ns&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/various/third-rail.jpg&quot; alt=&quot;alt text&quot; class=&quot;pl3-ns&quot; /&gt;&lt;/p&gt;
   &lt;p class=&quot;pr3-ns w-50-l w-100&quot;&gt;
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. &lt;/p&gt;
 
@@ -158,12 +158,12 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
   &lt;p class=&quot;pr3-ns w-50-l w-100 order-1 order-2-l&quot;&gt;
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. &lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;/images/various/third-rail.jpg&quot; alt=&quot;alt text&quot; class=&quot;pl3-ns&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;{{ site.baseurl }}//images/various/third-rail.jpg&quot; alt=&quot;alt text&quot; class=&quot;pl3-ns&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/various.html</link>
-        <guid isPermaLink="true">/2017/12/28/various.html</guid>
+        <link>{{ site.baseurl }}//2017/12/28/various.html</link>
+        <guid isPermaLink="true">{{ site.baseurl }}//2017/12/28/various.html</guid>
         
         
       </item>
