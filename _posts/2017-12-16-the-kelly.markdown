@@ -5,7 +5,7 @@ date:   2017-12-28 01:43:32 -0400
 img: images/kelly-logo.jpg
 head-img: /images/kelly/kelly-logo.png
 year: 2017
-type: Identity, Web.  
+type: Identity, Web Design.  
 location: Bala Cynwyd, PA
 information:
 ---

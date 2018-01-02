@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "The Wydown"
+title:  "The Wydown Website"
 date:   2017-12-28 01:43:32 -0400
 img: images/wydown/wydown-logo.jpg
+head-img:
+year: 2017
+type: Web Design.  
+location: Washington, DC.
 
 ---
 ![alt text]({{ site.baseurl }}/images/by-bill.jpg)

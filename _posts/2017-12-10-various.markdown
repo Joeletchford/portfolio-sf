@@ -3,8 +3,10 @@ layout: post
 title:  "Various Projects"
 date:   2017-12-28 01:43:32 -0400
 img: images/wydown/wydown-logo.jpg
-subhead: Information
-information: This is a collection of various projects that I have collated in no particular order. They are included here because, in some form or another, they informed and helped shape my growth as a designer.
+head-img:
+year: 2017
+type: Publication, Web, Exhibition, Illustration, Infographic.  
+location: Minneapolis, Richmond, DC. 
 
 ---
 <!--

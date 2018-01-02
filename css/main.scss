@@ -9,6 +9,14 @@
 //   letter-spacing: .05em;
 // }
 
+.hyphens {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+
 
 
 .right{
@@ -35,7 +43,7 @@
 }
 @font-face {
   font-family:'CircularStd-Book';
-  src: url('/fonts/CircularStd-Book.otf');
+  src: url('../fonts/CircularStd-Book.otf');
 }
 
 .circular{
@@ -44,7 +52,7 @@
 
 @font-face {
   font-family:'ThePyteFoundry--Alcove';
-  src: url('/fonts/ThePyteFoundry--Alcove.otf');
+  src: url('../fonts/ThePyteFoundry--Alcove.otf');
 }
 
 
