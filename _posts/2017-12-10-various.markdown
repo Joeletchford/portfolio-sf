@@ -36,7 +36,7 @@ The main body of work created parallel with the written thesis publication. This
 </div>
 
 <div class="fl w-100 pr2-l pb2" markdown="1">
-![look here]({{ site.baseurl }}/images/various/6.jpg){: .db .w-100 }
+![look here]({{ site.baseurl }}/images/various/5.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
 ![new americans]({{ site.baseurl }}/images/various/7.jpg){: .db .w-100 }
@@ -45,19 +45,32 @@ The main body of work created parallel with the written thesis publication. This
 ![new americans]({{ site.baseurl }}/images/various/8.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 pr2-l pb2" markdown="1">
-![NYC postcard]({{ site.baseurl }}/images/various/9.jpg){: .db .w-100 }
+![new americans]({{ site.baseurl }}/images/various/7-1.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/various/10.jpg){: .db .w-100 }
+![Masters of Sustainability]({{ site.baseurl }}/images/various/10.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/various/11.jpg){: .db .w-100 }
+![Masters of Sustainability]({{ site.baseurl }}/images/various/11.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+![thesis]({{ site.baseurl }}/images/various/Thesis26.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 w-50-l pr2-l pb2" markdown="1">
+![thesis]({{ site.baseurl }}/images/various/Thesis29.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 pr2-l pb2" markdown="1">
-![new americans]({{ site.baseurl }}/images/various/12-2.jpg){: .db .w-100 }
+![thesis]({{ site.baseurl }}/images/various/Thesis30.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 pr2-l pb2" markdown="1">
+![Third Rail]({{ site.baseurl }}/images/various/12-2.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 pr2-l pb2" markdown="1">
-![new americans]({{ site.baseurl }}/images/various/12.jpg){: .db .w-100 }
+![Third Rail]({{ site.baseurl }}/images/various/12.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 pr2-l pb2" markdown="1">
+![NYC postcard]({{ site.baseurl }}/images/various/9.jpg){: .db .w-100 }
 </div>
 
 <!-- ~~~
