@@ -5,23 +5,42 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jan 2018 16:30:19 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2018 16:30:19 -0500</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2018 11:35:16 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2018 11:35:16 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>The Wydown Website</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Website build&lt;/p&gt;
 
-&lt;p class=&quot;measure f5&quot;&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This concept is inspired by the elegance of Grace Kelly and the golden age of Hollywood. An actress who redefined an era and exuded confidence, this design invites you to live as she did, in your own way. Clean and elevated, the “K” logo was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District. The accessibility of the designs and messaging invites potential residents to craft their own lives in this newly re-imagined small-town U.S.A.&lt;/p&gt;
 
-&lt;p class=&quot;measure f5&quot;&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/by-bill.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Initial Sketch &lt;/p&gt;
+
+&lt;p&gt;The gridded system created to develop the K monogram carries throughout the brand system and .&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
         <link>/2017/12/28/the-wydown.html</link>
@@ -68,6 +87,25 @@
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Innitial Sketches &lt;/p&gt;
+
+&lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
+
+  &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-1.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-2.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-3.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;

@@ -3,7 +3,7 @@ layout: post
 title:  "The Kelly Apartments"
 date:   2017-12-28 01:43:32 -0400
 img: images/kelly/postcard3.png
-head-img: /images/kelly/postcard3.png
+head-img: images/kelly/postcard3.png
 year: 2017
 type: Identity, Web Design.  
 location: Bala Cynwyd, PA
@@ -54,9 +54,24 @@ The gridded system created to develop the K monogram carries throughout the bran
 </div>
 
 
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Innitial Sketches </p>
+
+<div class="w-100  center flex-l flex-wrap-l" markdown="1">
 
 
-
+ <div class="fl w-100  ph2 " markdown="1">
+ ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-1.jpg){: .db .w-100 }
+ </div>
+ <div class="fl w-100  w-50-l ph2 " markdown="1">
+ ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-2.jpg){: .db .w-100 }
+ </div>
+ <div class="fl w-100 w-50-l ph2 " markdown="1">
+ ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-3.jpg){: .db .w-100 }
+ </div>
+ </div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>

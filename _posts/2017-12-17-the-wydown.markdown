@@ -3,27 +3,45 @@ layout: post
 title:  "The Wydown Website"
 date:   2017-12-28 01:43:32 -0400
 img: images/wydown/wydown-logo.jpg
-head-img:
+head-img: images/wydown/wydown-logo.jpg
 year: 2017
 type: Web Design.  
 location: Washington, DC.
 
 ---
-![alt text]({{ site.baseurl }}/images/by-bill.jpg)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-{: .measure .f5}
-![alt text]({{ site.baseurl }}/images/by-bill.jpg)
+ <p class="alcove f4 f3-ns"> Website build</p>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-{: .measure .f5}
 
-![alt text]({{ site.baseurl }}/images/by-bill.jpg)
+This concept is inspired by the elegance of Grace Kelly and the golden age of Hollywood. An actress who redefined an era and exuded confidence, this design invites you to live as she did, in your own way. Clean and elevated, the “K” logo was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District. The accessibility of the designs and messaging invites potential residents to craft their own lives in this newly re-imagined small-town U.S.A.
 
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![kelly]({{ site.baseurl }}/images/kelly/postcard3.png){: .db .w-100 }
+</div>
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![kelly k break]({{ site.baseurl }}/images/kelly/postcard4.png){: .db .w-100 }
+</div>
+
+
+
+<div class="fl w-100  ph2 " markdown="1">
+![kelly grid]({{ site.baseurl }}/images/kelly/postcard5.png){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Initial Sketch </p>
+
+The gridded system created to develop the K monogram carries throughout the brand system and .
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![kelly postcard front]({{ site.baseurl }}/images/wydown/wydown-sketch.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 ph2 " markdown="1">
+![kelly postcard back]({{ site.baseurl }}/images/kelly/postcard7.png){: .db .w-100 }
+</div>
