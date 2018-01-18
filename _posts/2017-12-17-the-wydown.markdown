@@ -10,19 +10,14 @@ location: Washington, DC.
 
 ---
 
- <p class="alcove f4 f3-ns"> Website build</p>
+ <p class="alcove f4 f3-ns">Innitial Sketches </p>
+
+For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands, because The Wydown rebrands each one of its locations, whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations, however, I focused on a layout that was grid based and easily manipulated.
 
 
-This concept is inspired by the elegance of Grace Kelly and the golden age of Hollywood. An actress who redefined an era and exuded confidence, this design invites you to live as she did, in your own way. Clean and elevated, the “K” logo was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District. The accessibility of the designs and messaging invites potential residents to craft their own lives in this newly re-imagined small-town U.S.A.
 
-
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/kelly/postcard3.png){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly k break]({{ site.baseurl }}/images/kelly/postcard4.png){: .db .w-100 }
+<div class="fl w-100 ph2 " markdown="1">
+![wydown sketch]({{ site.baseurl }}/images/wydown/wydown-sketch.jpg){: .db .w-100 }
 </div>
 
 
@@ -34,9 +29,7 @@ This concept is inspired by the elegance of Grace Kelly and the golden age of Ho
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
- <p class="alcove f4 f3-ns"> Initial Sketch </p>
-
-The gridded system created to develop the K monogram carries throughout the brand system and .
+ <p class="alcove f4 f3-ns"> Web Development </p>
 
 
 <div class="fl w-100 ph2 " markdown="1">

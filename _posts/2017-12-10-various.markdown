@@ -2,7 +2,7 @@
 layout: post
 title:  "Various Projects"
 date:   2017-12-28 01:43:32 -0400
-img: images/various/1.gif
+img: images/various/print-mag.jpg
 head-img:
 year: 2017
 type: Publication, Web, Exhibition, Illustration, Infographic.  
@@ -16,6 +16,14 @@ location: Minneapolis, Richmond, DC.
 
 This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.
 
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![Half]({{ site.baseurl }}/images/various/print-mag.gif){: .db .w-100 }
+</div>
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![Half]({{ site.baseurl }}/images/various/print-mag.jpg){: .db .w-100 }
+</div>
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">
 ![Half]({{ site.baseurl }}/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }

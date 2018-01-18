@@ -86,3 +86,16 @@ The main body of work created parallel with the written thesis publication. This
 <div class="fl w-100 w-50-l ph2 " markdown="1">
 ![kelly logo]({{ site.baseurl }}/images/disconnection/pg6.jpg){: .db .w-100 }
 </div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+
+ <p class="alcove f4 f3-ns"> Interface Interaction </p>
+This video showcases the active and passive interactions between the user and the viewer. 
+
+
+
+<div class="fl w-100 ph2 " markdown="1">
+<iframe frameborder="0" height="564" src="https://player.vimeo.com/video/212339354"  width="100%"></iframe>
+</div>
