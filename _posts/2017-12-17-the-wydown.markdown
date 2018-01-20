@@ -46,7 +46,7 @@ For this project I was tasked with creating the web presence for an established 
 <!-- h2 -->
 <p class="alcove f4 f3-ns">Web Development </p>
 
-For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands, because The Wydown rebrands each one of its locations, whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations, however, I focused on a layout that was grid based and easily manipulated.
+The thought for this site; was to create something clean, beautiful, and responsive for mobile. The focus on mobile was because for most, when searching for a restaurant, or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
 
 
 

@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 14:00:27 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 14:00:27 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2018 15:02:11 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 15:02:11 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -40,7 +40,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Web Development &lt;/p&gt;
 
-&lt;p&gt;For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands, because The Wydown rebrands each one of its locations, whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations, however, I focused on a layout that was grid based and easily manipulated.&lt;/p&gt;
+&lt;p&gt;The thought for this site; was to create something clean, beautiful, and responsive for mobile. The focus on mobile was because for most, when searching for a restaurant, or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -300,27 +300,27 @@
 &lt;p&gt;For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allwed myself to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/4.png&quot; alt=&quot;kelly &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/4.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/2.png&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/2.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/1.png&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/1.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/7.png&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/7.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/5.png&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/5.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
@@ -335,27 +335,27 @@
 &lt;/ul&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1.png&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1.png&quot; alt=&quot;nmb desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4.png&quot; alt=&quot;nmb grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/5.png&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/5.png&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7.png&quot; alt=&quot;nmb k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -367,27 +367,27 @@
 &lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/3_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/3_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -399,27 +399,65 @@
 &lt;p&gt;This publication and the identity system created for the years annual was based around the idea of cadence. The grids and methodical layout was conceptually driven by the audible cadence that both a railway and airlines produce. Both being very mechanical and rhythmic, I wanted to create an system which reflected that structure.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/3_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/5.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/3.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6_grid.jpg&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/42.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7_grid.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/22.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/32.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;un-approved concept for the same annual&lt;/p&gt;
+
+&lt;p&gt;This concept was focused on a responsive type treatment which itself was based momentum. The hero type would respond to screen size and whatever the paper size would have been for the printed annual.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/2.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/3.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/4.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/1-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/2-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/3-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/nmb/4-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>

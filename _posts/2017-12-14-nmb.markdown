@@ -15,30 +15,30 @@ location: Washington, DC.
 For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allwed myself to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/mob/3.png){: .db  }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/3.png){: .db  }
 </div>
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly ]({{ site.baseurl }}/images/nmb/mob/4.png){: .db }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/4.png){: .db }
 </div>
 
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly neighborhood]({{ site.baseurl }}/images/nmb/mob/2.png){: .db }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/2.png){: .db }
 </div>
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly gallery]({{ site.baseurl }}/images/nmb/mob/1.png){: .db  }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/1.png){: .db  }
 </div>
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly gallery]({{ site.baseurl }}/images/nmb/mob/7.png){: .db  }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/7.png){: .db  }
 </div>
 
 
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/mob/5.png){: .db  }
+![nmb mobile]({{ site.baseurl }}/images/nmb/mob/5.png){: .db  }
 </div>
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <p class="alcove f4 f3-ns"> Web Design</p>
@@ -51,28 +51,28 @@ Once I nailed down the mobile navigation and interactions I then moved onto the 
 
 
 <div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/1.png){: .db .w-100 }
+![nmb desk]({{ site.baseurl }}/images/nmb/desk/1.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/2.png){: .db .w-100 }
+![nmb]({{ site.baseurl }}/images/nmb/desk/2.png){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly grid]({{ site.baseurl }}/images/nmb/desk/4.png){: .db .w-100 }
+![nmb grid]({{ site.baseurl }}/images/nmb/desk/4.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/5.png){: .db .w-100 }
+![nmb land]({{ site.baseurl }}/images/nmb/desk/5.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/6.png){: .db .w-100 }
+![nmb]({{ site.baseurl }}/images/nmb/desk/6.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly k break]({{ site.baseurl }}/images/nmb/desk/7.png){: .db .w-100 }
+![nmb k break]({{ site.baseurl }}/images/nmb/desk/7.png){: .db .w-100 }
 </div>
 
 
@@ -85,29 +85,29 @@ The grid created to develop the K logo mark was used as my system for creating t
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/2_grid.jpg){: .db .w-100 }
+![nmb]({{ site.baseurl }}/images/nmb/desk/2_grid.jpg){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/1_grid.jpg){: .db .w-100 }
+![nmb land]({{ site.baseurl }}/images/nmb/desk/1_grid.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/3_grid.jpg){: .db .w-100 }
+![nmb land]({{ site.baseurl }}/images/nmb/desk/3_grid.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/4_grid.jpg){: .db .w-100 }
+![nmb]({{ site.baseurl }}/images/nmb/desk/4_grid.jpg){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/6_grid.jpg){: .db .w-100 }
+![nmb]({{ site.baseurl }}/images/nmb/desk/6_grid.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/7_grid.jpg){: .db .w-100 }
+![nmb land]({{ site.baseurl }}/images/nmb/desk/7_grid.jpg){: .db .w-100 }
 </div>
 
 
@@ -116,31 +116,73 @@ The grid created to develop the K logo mark was used as my system for creating t
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Publication </p>
 
-This publication and the identity system created for the years annual was based around the idea of cadence. The grids and methodical layout was conceptually driven by the audible cadence that both a railway and airlines produce. Both being very mechanical and rhythmic, I wanted to create an system which reflected that structure. 
+This publication and the identity system created for the years annual was based around the idea of cadence. The grids and methodical layout was conceptually driven by the audible cadence that both a railway and airlines produce. Both being very mechanical and rhythmic, I wanted to create an system which reflected that structure.
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/2_grid.jpg){: .db .w-100 }
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/1.png){: .db .w-100 }
 </div>
-
-
-<div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/1_grid.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/3_grid.jpg){: .db .w-100 }
-</div>
-
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/4_grid.jpg){: .db .w-100 }
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/5.jpg){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/nmb/desk/6_grid.jpg){: .db .w-100 }
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/3.jpg){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-50-l  ph2 " markdown="1">
-![kelly land]({{ site.baseurl }}/images/nmb/desk/7_grid.jpg){: .db .w-100 }
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/42.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/22.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/book/32.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns">un-approved concept for the same annual</p>
+
+This concept was focused on a responsive type treatment which itself was based momentum. The hero type would respond to screen size and whatever the paper size would have been for the printed annual. 
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/1.png){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/2.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/3.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/4.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-25-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/1-mob.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-25-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/2-mob.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-25-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/3-mob.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-25-l ph2 " markdown="1">
+![nmb PUB]({{ site.baseurl }}/images/nmb/4-mob.png){: .db .w-100 }
 </div>
