@@ -9,7 +9,7 @@ type: Identity, Web Design.
 location: Bala Cynwyd, PA
 webtitle: Website </span> —
 website: http://www.thekellyapts.com/
-websitename: The Kelly Apartments
+websitename: The Kelly Apartments &rarr;
 style: f6 pv2 bb
 ---
 

@@ -7,6 +7,10 @@ head-img: images/disconnection/dude.gif
 year: 2016
 type: Publication & Exhibition Identity.  
 location: Minneapolis, MN
+pubtitle: Publication </span> –
+pubsite: https://issuu.com/mcadmfa/docs/mcad_mfa_thesis_catalog_2016
+pubname: 2016 Thesis &rarr;
+pubstyle: f6 pv2 bb
 
 ---
 The Minneapolis College of Art and Design’s Master of Fine Arts program is a community of makers, thinkers, theorists, researchers, and creative professionals working in a mentor- based, interdisciplinary educational environment. This incredible collection of work represents the capstone activity of two years of intensive study and a relentless pursuit of creative excellence. The candidates graduating this spring reflect the truly interdisciplinary nature of our mentor-based program and demonstrate the importance of personal expression and achievement.

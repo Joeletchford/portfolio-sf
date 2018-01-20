@@ -7,7 +7,14 @@ head-img: images/disconnection/images/Thesis-Cover-Option.jpg
 year: 2017
 type: Publication, Web Interface & Design, Exhibition.  
 location: Minneapolis, MN
-
+webtitle: Code </span> —
+website: https://github.com/Joeletchford/thesis
+websitename: Disconnection &rarr;
+style: f6 pv2 bb
+pubtitle: Publication </span> –
+pubsite: https://issuu.com/joeletchford/docs/letchford_final_thesis_guts
+pubname: Disconnection; A Neutral-Gear A Semi-Solid &rarr;
+pubstyle: f6 pv2 bb
 ---
 The work presented in this application explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. Post-Digital is the discourse around the relationships between our technologies and their effects on us as humans. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.
 
@@ -92,7 +99,7 @@ The main body of work created parallel with the written thesis publication. This
 <!-- h2 -->
 
  <p class="alcove f4 f3-ns"> Interface Interaction </p>
-This video showcases the active and passive interactions between the user and the viewer. 
+This video showcases the active and passive interactions between the user and the viewer.
 
 
 
