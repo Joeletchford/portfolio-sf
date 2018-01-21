@@ -58,7 +58,7 @@ The grid created to develop the K logo mark was used as my system for creating t
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
- <p class="alcove f4 f3-ns"> Innitial Sketches </p>
+ <p class="alcove f4 f3-ns"> Initial Sketches </p>
 
  My initial web sketches focused on creating a site which utilized this grid in an effective and intuitive way, avoiding any gimmick and non user friendly design implementations.
 
