@@ -152,7 +152,7 @@ The grid created to develop the K logo mark was used as my system for creating t
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Web Development </p>
 
-With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design moc-up. In this stage it was mostly getting all the content to work within the grid as well as focusing on effective UI/UX experiences, again attempting to bring something interesting design wise, but avoiding unnecessary additions.
+With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage it was mostly getting all the content to work within the grid as well as focusing on effective UI/UX experiences, again attempting to bring something interesting design wise, but avoiding unnecessary additions.
 
 
 <div class="w-100  center flex-l flex-wrap-l" markdown="1">

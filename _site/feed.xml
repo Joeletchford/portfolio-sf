@@ -3,10 +3,10 @@
   <channel>
     <title>Joe Letchford Portfolio</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 20:31:54 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 20:31:54 -0500</lastBuildDate>
+    <link>/portfolio-sf/</link>
+    <atom:link href="/portfolio-sf/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Jan 2018 20:43:36 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 20:43:36 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,22 +16,22 @@
 &lt;p&gt;For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands, because The Wydown rebrands each one of its locations, whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations, however, I focused on a layout that was grid based and easily manipulated.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/home.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/home.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/H.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/H.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/About.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/About.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/gallery.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/gallery.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -43,59 +43,59 @@
 &lt;p&gt;The thought for this site; was to create something clean, beautiful, and responsive for mobile. The focus on mobile was because for most, when searching for a restaurant, or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/3.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/3.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-1.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-1.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/4.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/2.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/2.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- mobile --&gt;
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/5-1-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/5-1-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/5-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/5-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/2-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/2-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/3-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/3-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-wydown.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-wydown.html</guid>
+        <link>/portfolio-sf/2017/12/28/the-wydown.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/the-wydown.html</guid>
         
         
       </item>
@@ -107,15 +107,15 @@
 &lt;p&gt;The Kelly is inspired by the elegance of Grace Kelly and the golden age of Hollywood. The logo mark was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District, PA.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -127,17 +127,17 @@
 &lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -151,75 +151,75 @@
 &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
   &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-1.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-1.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-2.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-2.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-3.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-3.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
   &lt;!-- &lt;div class=&quot;fl w-50-l ph2&quot; markdown=&quot;1&quot;&gt;
-![kelly land](/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
+![kelly land](/portfolio-sf/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
 &lt;/div&gt; --&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_desktop_home.jpg&quot; alt=&quot;kelly fill home &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_desktop_home.jpg&quot; alt=&quot;kelly fill home &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- &lt;div class=&quot;fl w-50-l ph2&quot; markdown=&quot;1&quot;&gt;
-![kelly floorplan](/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
+![kelly floorplan](/portfolio-sf/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
 &lt;/div&gt; --&gt;
 
   &lt;div class=&quot;fl w-50-l ph2&quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Neighborhood.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_Neighborhood.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Floorplan_detail.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_Floorplan_detail.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_nav option.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_nav option.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;w-100 center flex-l flex-wrap-l&quot;&gt;
 
     &lt;!--
 &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![kelly mobile land ](/images/kelly/web/landing_page_mobile.jpg){: .db  }
+![kelly mobile land ](/portfolio-sf/images/kelly/web/landing_page_mobile.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/Home_mobile.jpg&quot; alt=&quot;kelly phome mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/Home_mobile.jpg&quot; alt=&quot;kelly phome mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![floor plan ](/images/kelly/web/Floorplan-landing.jpg){: .db  }
+![floor plan ](/portfolio-sf/images/kelly/web/Floorplan-landing.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/floorplans.jpg&quot; alt=&quot;floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/floorplans.jpg&quot; alt=&quot;floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![meniu](/images/kelly/web/menu-mobile.jpg){: .db  }
+![meniu](/portfolio-sf/images/kelly/web/menu-mobile.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighborhood-mobile.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/neighborhood-mobile.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighnorhood-click.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/neighnorhood-click.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![image ](/images/kelly/web/image-expanded-m.jpg){: .db  }
+![image ](/portfolio-sf/images/kelly/web/image-expanded-m.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;!-- line --&gt;
@@ -228,58 +228,58 @@
     &lt;!-- h2 --&gt;
     &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Development &lt;/p&gt;
 
-    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design moc-up. In this stage it was mostly getting all the content to work within the grid as well as focusing on effective UI/UX experiences, again attempting to bring something interesting design wise, but avoiding unnecessary additions.&lt;/p&gt;
+    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage it was mostly getting all the content to work within the grid as well as focusing on effective UI/UX experiences, again attempting to bring something interesting design wise, but avoiding unnecessary additions.&lt;/p&gt;
 
     &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
       &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_landing_view.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_landing_view.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_desktop_home.jpg&quot; alt=&quot;kelly desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_desktop_home.jpg&quot; alt=&quot;kelly desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_neighborhood.jpg&quot; alt=&quot;neighborhood&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_neighborhood.jpg&quot; alt=&quot;neighborhood&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_gallery.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_gallery.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_Gallery_full.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_Gallery_full.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_nav_option.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_nav_option.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_404.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_404.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;!-- mobile --&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/home.jpg&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/home.jpg&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/neighborhood.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/neighborhood.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/gallery_mobile.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/gallery_mobile.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/menu_mobile.jpg&quot; alt=&quot;kelly &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/menu_mobile.jpg&quot; alt=&quot;kelly &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Interactions.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Interactions.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
     &lt;/div&gt;
@@ -287,8 +287,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-kelly.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-kelly.html</guid>
+        <link>/portfolio-sf/2017/12/28/the-kelly.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/the-kelly.html</guid>
         
         
       </item>
@@ -300,27 +300,27 @@
 &lt;p&gt;For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/4.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/4.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/2.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/2.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/1.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/1.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/7.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/7.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/5.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/mob/5.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
@@ -335,27 +335,27 @@
 &lt;/ul&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1.png&quot; alt=&quot;nmb desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/1.png&quot; alt=&quot;nmb desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/2.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4.png&quot; alt=&quot;nmb grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/4.png&quot; alt=&quot;nmb grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/5.png&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/5.png&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/6.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7.png&quot; alt=&quot;nmb k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/7.png&quot; alt=&quot;nmb k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -367,27 +367,27 @@
 &lt;p&gt;This image system created for this years annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is—for the most part—methodical and structured, but also has its idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/1_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/3_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/3_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/4_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/6_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/desk/7_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -397,26 +397,26 @@
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Publication &lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/5.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/3.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/5.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/42.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/3.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/22.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/42.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/32.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/22.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/book/32.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -428,39 +428,39 @@
 &lt;p&gt;This concept was focused on a responsive type treatment which itself was based on momentum. The hero type would have responded to screen size and paper size for the printed annual.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/2.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/3.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/2.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/4.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/3.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/4.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/1-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/1-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/2-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/2-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/3-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/3-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/4-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/nmb/4-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/nmb.html</link>
-        <guid isPermaLink="true">/2017/12/28/nmb.html</guid>
+        <link>/portfolio-sf/2017/12/28/nmb.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/nmb.html</guid>
         
         
       </item>
@@ -472,24 +472,24 @@
 &lt;p&gt;The design of this catalog was based around two sidereal years to represent the amount of time these graduates spent in the program. Another major conceptual aspect to this publication had to do with the spiral bind. This binding decision was dictated by my desire for the cycle and that the publication itself was a cyclical object, not linear. Keeping with this conceptual idea, I created the system within the publication to adhere to this cycle. Each spread theoretically represents itself as the cover, by keeping the necessary information visible you will always know what it is you are picking up.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/coveropen.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/eric.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/liza.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/coveropen.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/preston.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/eric.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/redspread.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/liza.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/preston.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/redspread.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -499,16 +499,16 @@
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Select Exhibition Signage &lt;/p&gt;
 
 &lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/poster.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/poster.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/graduate.html</link>
-        <guid isPermaLink="true">/2017/12/28/graduate.html</guid>
+        <link>/portfolio-sf/2017/12/28/graduate.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/graduate.html</guid>
         
         
       </item>
@@ -518,19 +518,19 @@
         <description>&lt;p&gt;This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -542,21 +542,21 @@
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -568,21 +568,21 @@
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -598,8 +598,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/disconnection.html</link>
-        <guid isPermaLink="true">/2017/12/28/disconnection.html</guid>
+        <link>/portfolio-sf/2017/12/28/disconnection.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/disconnection.html</guid>
         
         
       </item>
@@ -607,60 +607,60 @@
       <item>
         <title>Various Projects</title>
         <description>&lt;!--
-![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
+![alt text](/portfolio-sf/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
 
 &lt;p class=&quot;alcove f4 f3-ns &quot;&gt; Half Baked, One-off, designed material to enjoy &lt;/p&gt;
 
 &lt;p&gt;This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.gif&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/print-mag.gif&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/print-mag.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 
   &lt;!-- line --&gt;
 
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
@@ -669,75 +669,75 @@
   &lt;!-- flex box  --&gt;
   &lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot; markdown=&quot;1&quot;&gt;
-![look here](/images/various/6.jpg){: .db .w-100 }
+![look here](/portfolio-sf/images/various/6.jpg){: .db .w-100 }
 &lt;/div&gt;
 &lt;div class=&quot;flex-l flex-column&quot; markdown=&quot;1&quot;&gt;
 &lt;div class=&quot;fl w-100 ph2 flex-column &quot; markdown=&quot;1&quot;&gt;
-![new americans](/images/various/7.jpg){: .db .w-100 }
+![new americans](/portfolio-sf/images/various/7.jpg){: .db .w-100 }
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 ph2 flex-column&quot; markdown=&quot;1&quot;&gt;
-![new americans](/images/various/8.jpg){: .db .w-100 }
+![new americans](/portfolio-sf/images/various/8.jpg){: .db .w-100 }
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
 
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
   &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- line --&gt;
@@ -749,8 +749,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/various.html</link>
-        <guid isPermaLink="true">/2017/12/28/various.html</guid>
+        <link>/portfolio-sf/2017/12/28/various.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/28/various.html</guid>
         
         
       </item>
