@@ -100,7 +100,7 @@ layout: default
         {% for post in site.posts %}
 <!-- {{ site.baseurl }}/   add to href for post link on idex -->
         <div class="fl-l pv2 vh-50 mw7-m w-100">
-          <a href="{{ site.baseurl }}/{{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
+          <a href="{{ site.baseurl }}/ {{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ site.baseurl }}/{{ post.img }});">
             <h1 class="f3-l f4 lh-copy w-100 white tc dtc v-mid child pb0 h-100  bg-black-80">
             {{ post.title }}
             <div class="alcove f6-l f7 white lh-solid pt0"> {{ post.type }}</div>

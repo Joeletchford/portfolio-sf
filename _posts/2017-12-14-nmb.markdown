@@ -3,7 +3,7 @@ layout: post
 title:  "National Mediation Board"
 date:   2017-12-28 01:43:32 -0400
 img: images/nmb/desk/2_grid.jpg
-head-img:
+head-img: images/nmb/head.png
 year: 2017
 type: Publication & Web Design.   
 location: Washington, DC.

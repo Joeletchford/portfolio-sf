@@ -3,7 +3,7 @@ layout: post
 title:  "Various Projects"
 date:   2017-12-28 01:43:32 -0400
 img: images/various/print-mag.jpg
-head-img:
+head-img: images/various/hrc-1.png
 year: 2017
 type: Publication, Web, Exhibition, Illustration, Infographic.  
 location: Minneapolis, Richmond, DC.
