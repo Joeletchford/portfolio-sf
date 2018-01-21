@@ -23,14 +23,9 @@ This post is a collection of various projects and materials that I have created 
 ![Half]({{ site.baseurl }}/images/various/print-mag.jpg){: .db .w-100 }
 </div>
 
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-
-<div class="fl w-100 ph2 " markdown="1">
-![Half]({{ site.baseurl }}/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
 
 
 <!-- line -->
-
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">

@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 21:30:40 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 21:30:40 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2018 22:04:09 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 22:04:09 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -227,7 +227,7 @@
     &lt;!-- h2 --&gt;
     &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Development &lt;/p&gt;
 
-    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage it was mostly getting all the content to work within the grid as well as focusing on effective UI/UX experiences, while attempting to bring some interesting design elements without unnecessary additions.&lt;/p&gt;
+    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage, I focused on getting all the content to work within the grid system while developing effective UI/UX experiences. I also incorporated some interesting design elements while avoiding unnecessary additions.&lt;/p&gt;
 
     &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
@@ -441,19 +441,19 @@
   &lt;p&gt;&lt;img src=&quot;/images/nmb/4.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-50 w-25-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/1-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/2-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/3-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/4-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -619,54 +619,48 @@
   &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
+&lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;!-- line --&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-  &lt;!-- flex box  --&gt;
-  &lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
+&lt;!-- flex box  --&gt;
+&lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot; markdown=&quot;1&quot;&gt;
 ![look here](/images/various/6.jpg){: .db .w-100 }
 &lt;/div&gt;
@@ -680,72 +674,71 @@
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
+&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;!-- line --&gt;
-  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-  &lt;!-- ~~~
+&lt;!-- ~~~
 
 ~~~ --&gt;
-&lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
         <link>/2017/12/28/various.html</link>

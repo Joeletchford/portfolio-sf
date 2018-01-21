@@ -168,19 +168,19 @@ This concept was focused on a responsive type treatment which itself was based o
 </div>
 
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl w-50 w-25-l ph2 " markdown="1">
 ![nmb PUB]({{ site.baseurl }}/images/nmb/1-mob.png){: .db .w-100 }
 </div>
 
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl w-50  w-25-l ph2 " markdown="1">
 ![nmb PUB]({{ site.baseurl }}/images/nmb/2-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl w-50  w-25-l ph2 " markdown="1">
 ![nmb PUB]({{ site.baseurl }}/images/nmb/3-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl w-50  w-25-l ph2 " markdown="1">
 ![nmb PUB]({{ site.baseurl }}/images/nmb/4-mob.png){: .db .w-100 }
 </div>
