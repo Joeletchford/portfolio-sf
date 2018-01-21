@@ -16,7 +16,7 @@ style: f6 pv2 bb
 
  <p class="alcove f4 f3-ns">Innitial Sketches </p>
 
-For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands because The Wydown rebrands each one of its locations whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations, however, I focused on a layout that was grid based and easily manipulated.
+For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands because The Wydown rebrands each one of its locations whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations; however, I focused on a layout that was grid based and easily manipulated in case they continue to expand in the future.
 
 
 <div class="fl w-100 ph2 " markdown="1">
