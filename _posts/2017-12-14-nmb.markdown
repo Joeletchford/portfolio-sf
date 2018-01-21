@@ -12,7 +12,7 @@ location: Washington, DC.
 
  <p class="alcove f4 f3-ns"> Mobile first website design process</p>
 
-For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.
+For the development of this annual report, I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. When approaching a web site, I went with a mobile first–approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience, it would have to be stripped of anything that could make the navigation confusing.
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
 ![nmb mobile]({{ site.baseurl }}/images/nmb/mob/3.png){: .db  }
@@ -43,9 +43,9 @@ For the development of this annual report I set forth to create a clean and conc
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <p class="alcove f4 f3-ns"> Web Design</p>
 
-Once I nailed down the mobile navigation and interactions I then moved onto the desktop version of the site. This design had to also include the images and identity created for this years annual. This identity system influenced the navigation since I had to find a way to creatively include the gridded image making system. A few improvements and simplifications I made from the previous designs included:
+Once I nailed down the mobile navigation and interactions, I then moved onto the desktop version of the site. This design had to also include the images and identity created for this year's annual. This identity system influenced the navigation since I had to find a way to creatively include the gridded image–making system. A few improvements and simplifications I made from the previous designs included:
 * A navigation system which itself is the main content
-* Secondary navigation which allows the user to click forward or backword within destinations to continue onto sections fluidly.
+* Secondary navigation which allows the user to click forward or backword within destinations to continue onto sections fluidly
 * Single scrolling sections to alleviate multiple clicks
 * Fixed Menu button at the bottom of section pages for a more obvious navigation
 
