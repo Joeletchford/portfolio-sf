@@ -75,33 +75,32 @@ The thought for this site; was to create something clean, beautiful, and respons
 </div>
 
 <!-- mobile -->
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly grid]({{ site.baseurl }}/images/wydown/5-1-mob.png){: .db .w-100 }
 </div>
 
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly grid]({{ site.baseurl }}/images/wydown/5-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2ph2 " markdown="1">
 ![kelly postcard back]({{ site.baseurl }}/images/wydown/1-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly grid]({{ site.baseurl }}/images/wydown/2-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100 ph2 " markdown="1"/>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly grid]({{ site.baseurl }}/images/wydown/3-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly postcard back]({{ site.baseurl }}/images/wydown/4-1-mob.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-25-l ph2 " markdown="1">
+<div class="fl fl w-25-l w-50 ph2 ph2 " markdown="1">
 ![kelly postcard back]({{ site.baseurl }}/images/wydown/4-mob.png){: .db .w-100 }
 </div>
