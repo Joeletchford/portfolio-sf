@@ -92,7 +92,7 @@ The thought for this site; was to create something clean, beautiful, and respons
 ![kelly grid]({{ site.baseurl }}/images/wydown/2-mob.png){: .db .w-100 }
 </div>
 
-
+<div class="fl w-100 ph2 " markdown="1"/>
 <div class="fl w-25-l w-50 ph2" markdown="1">
 ![kelly grid]({{ site.baseurl }}/images/wydown/3-mob.png){: .db .w-100 }
 </div>
