@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 15:02:11 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 15:02:11 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2018 20:31:54 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 20:31:54 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -297,7 +297,7 @@
         <title>National Mediation Board</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Mobile first website design process&lt;/p&gt;
 
-&lt;p&gt;For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allwed myself to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
+&lt;p&gt;For the development of this annual report I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. So when approaching a web site I went with a mobile first approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
@@ -364,7 +364,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Gridded Image System &lt;/p&gt;
 
-&lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.&lt;/p&gt;
+&lt;p&gt;This image system created for this years annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is—for the most part—methodical and structured, but also has its idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -396,8 +396,6 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Publication &lt;/p&gt;
 
-&lt;p&gt;This publication and the identity system created for the years annual was based around the idea of cadence. The grids and methodical layout was conceptually driven by the audible cadence that both a railway and airlines produce. Both being very mechanical and rhythmic, I wanted to create an system which reflected that structure.&lt;/p&gt;
-
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/book/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -425,9 +423,9 @@
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;un-approved concept for the same annual&lt;/p&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Proposed concept for the same annual&lt;/p&gt;
 
-&lt;p&gt;This concept was focused on a responsive type treatment which itself was based momentum. The hero type would respond to screen size and whatever the paper size would have been for the printed annual.&lt;/p&gt;
+&lt;p&gt;This concept was focused on a responsive type treatment which itself was based on momentum. The hero type would have responded to screen size and paper size for the printed annual.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -469,45 +467,43 @@
     
       <item>
         <title>2016 Graduate Thesis</title>
-        <description>&lt;p&gt;The Minneapolis College of Art and Design’s Master of Fine Arts program is a community of makers, thinkers, theorists, researchers, and creative professionals working in a mentor- based, interdisciplinary educational environment. This incredible collection of work represents the capstone activity of two years of intensive study and a relentless pursuit of creative excellence. The candidates graduating this spring reflect the truly interdisciplinary nature of our mentor-based program and demonstrate the importance of personal expression and achievement.&lt;/p&gt;
+        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Graduate Thesis Publication &lt;/p&gt;
 
 &lt;p&gt;The design of this catalog was based around two sidereal years to represent the amount of time these graduates spent in the program. Another major conceptual aspect to this publication had to do with the spiral bind. This binding decision was dictated by my desire for the cycle and that the publication itself was a cyclical object, not linear. Keeping with this conceptual idea, I created the system within the publication to adhere to this cycle. Each spread theoretically represents itself as the cover, by keeping the necessary information visible you will always know what it is you are picking up.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;logo&quot;&gt;Logo&lt;/h2&gt;
-&lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/coveropen.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-100 w-100-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/eric.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/liza.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/preston.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/redspread.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Select Exhibition Signage &lt;/p&gt;
+
+&lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/poster.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
@@ -519,21 +515,21 @@
     
       <item>
         <title>Disconnection; A Neutral-Gear A Semi-Solid</title>
-        <description>&lt;p&gt;The work presented in this application explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. Post-Digital is the discourse around the relationships between our technologies and their effects on us as humans. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
+        <description>&lt;p&gt;This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
@@ -623,48 +619,55 @@
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;!-- line --&gt;
+
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;!-- line --&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh web&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- flex box  --&gt;
-&lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+  &lt;!-- flex box  --&gt;
+  &lt;!-- &lt;div class=&quot;w-100 center flex-l flex-nowrap-l&quot; markdown=&quot;1&quot;&gt;
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot; markdown=&quot;1&quot;&gt;
 ![look here](/images/various/6.jpg){: .db .w-100 }
 &lt;/div&gt;
@@ -678,71 +681,72 @@
 &lt;/div&gt;
 &lt;/div&gt; --&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/3.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/4.jpg&quot; alt=&quot;fine arts&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/ tobacconomics_full.png&quot; alt=&quot;tobacco&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
+  &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+  &lt;!-- line --&gt;
+  &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;!-- ~~~
+  &lt;!-- ~~~
 
 ~~~ --&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
         <link>/2017/12/28/various.html</link>
