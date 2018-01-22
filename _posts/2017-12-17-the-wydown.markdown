@@ -16,7 +16,7 @@ style: f6 pv2 bb
 
  <p class="alcove f4 f3-ns">Initial Sketches </p>
 
-For this project, I created a web presence for an established specialty coffee chain in DC. The website needed to create a simple, structured, and inviting atmosphere for patrons. This brand functions differently than other multiple-location businesses because The Wydown rebrands each new location. Currently, The Wydown operates only two locations in the DC area; however, to facilitate the brand's expansion, I developed an adaptable grid based layout that can easily incorporate additional elements.
+For this project, I created a web presence for an established specialty coffee chain in DC. The website needed to embody a simple, structured, and inviting atmosphere for patrons. This brand functions differently than other multiple-location businesses because The Wydown rebrands each new location. Currently, The Wydown operates only two locations in the DC area; however, to facilitate the brand's expansion, I developed an adaptable grid-based layout that can easily incorporate additional elements.
 
 
 <div class="fl w-100 ph2 " markdown="1">
@@ -46,7 +46,7 @@ For this project, I created a web presence for an established specialty coffee c
 <!-- h2 -->
 <p class="alcove f4 f3-ns">Web Development </p>
 
-For the website, I envisioned a clean, simple, and responsive platform that would translate well to mobile. I prioritized the mobile interface because most users search for a restaurant or a coffee shop while on the move. So although the desktop site had to be interesting and compelling, I concentrated on how that experience would translate and function easily on mobile.
+I envisioned a clean, simple, and responsive platform that would translate well to mobile. I prioritized the mobile interface because most users search for a restaurant or a coffee shop while on the move. Although the desktop site had to be interesting and compelling, I concentrated on how that experience would translate and function easily on mobile.
 
 
 

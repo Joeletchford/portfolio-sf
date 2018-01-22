@@ -14,7 +14,7 @@ location: Minneapolis, Richmond, DC.
 
 <p class="alcove f4 f3-ns "> Half-Baked, One-off, designed material to enjoy </p>
 
-This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half-baked ideas, or just one-off designs. However, I believe they all have helped to inform my practice and are worth showing.
+This post is a collection of various projects and material that I have created over the past couple years. They may be parts of a whole, half-baked ideas, or just one-off designs. However, I believe they all have helped to inform my practice and are worth showcasing.
 
 <div class="fl w-50-l w-100 ph2 " markdown="1">
 ![Half]({{ site.baseurl }}/images/various/print-mag.gif){: .db .w-100 }

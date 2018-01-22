@@ -10,9 +10,9 @@ location: Washington, DC.
 
 ---
 
- <p class="alcove f4 f3-ns"> Mobile first website design process</p>
+ <p class="alcove f4 f3-ns"> Mobile-first website design process</p>
 
-For the development of this annual report, I sought to create a clean and concise web presence. Much like the annual report itself, I created a visual system which kept information as convenient and accessible as possible. When approaching a web site, I helped the client transition to a mobile first–approach which allowed me to focus on a navigation system that was unique from the years prior while simultaneously simplifying the interaction. The mobile-first approach stripped the interface of anything that could make the navigation confusing so that users could consume the material efficiently from their mobile devices.
+For the development of this annual report, I sought to create a clean and concise web presence. Much like the annual report itself, I created a visual system which kept information as convenient and accessible as possible. When approaching the web site, I helped the client transition to a mobile-first approach which allowed me to focus on a navigation system that was unique from the years prior while simultaneously simplifying the interaction. The mobile-first approach stripped the interface of anything that could make the navigation confusing so that users could consume the material efficiently from their mobile devices.
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
 ![nmb mobile]({{ site.baseurl }}/images/nmb/mob/3.png){: .db  }
@@ -81,7 +81,7 @@ Once I nailed down the mobile navigation and interactions, I developed the deskt
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Gridded Image System </p>
 
-The image system created for this year's annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is — for the most part — methodical and structured, but is not devoid of subtle idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.
+The image system created for this year's annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is — for the most part — methodical and structured, but it is not devoid of subtle idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
@@ -146,9 +146,9 @@ The image system created for this year's annual was rooted in the idea that both
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
- <p class="alcove f4 f3-ns">Proposed concept for the same annual</p>
+ <p class="alcove f4 f3-ns">Alternative proposed concept</p>
 
-This concept focused on a responsive type treatment which itself was based on momentum. The hero type also responded well to various screen and paper sizes for the web and print annual.
+My alternative concept focused on a responsive type treatment which itself was based on momentum. The hero type also responded well to various screen and paper sizes for the web and print annual.
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">

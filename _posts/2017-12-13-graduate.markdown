@@ -16,7 +16,7 @@ pubstyle: f6 pv2 bb
 
 <p class="alcove f4 f3-ns"> Graduate Thesis Publication </p>
 
-The design of this catalog was based around two sidereal years representing the amount of time these graduates spent in the program. Another major conceptual aspect centered on the spiral bind. This binding decision was dictated by the idea of a cycle and that the publication itself was a cyclical, as opposed to linear, object. Keeping with this concept, I reiterated the cyclical system within the publication's individual spreads. Each spread could theoretically represent itself as the cover of the book, eliminating the idea of a beginning and end.
+The design of this catalog was based on two sidereal years representing the amount of time these graduates spent in the program. Another major conceptual aspect centered on the spiral bind. This binding decision was dictated by the idea of a cycle and that the publication itself was a cyclical, as opposed to linear, object. Keeping with this concept, I reiterated the cyclical system within the publication's individual spreads. Each spread could theoretically represent itself as the cover of the book, eliminating the idea of a beginning and end.
 
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
