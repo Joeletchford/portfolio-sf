@@ -16,7 +16,7 @@ style: f6 pv2 bb
 
  <p class="alcove f4 f3-ns">Initial Sketches </p>
 
-For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands because The Wydown rebrands each one of its locations whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations; however, I focused on a layout that was grid based and easily manipulated in case they continue to expand in the future.
+For this project, I created a web presence for an established specialty coffee chain in DC. The website needed to create a simple, structured, and inviting atmosphere for patrons. This brand functions differently than other multiple-location businesses because The Wydown rebrands each new location. Currently, The Wydown operates only two locations in the DC area; however, to facilitate the brand's expansion, I developed an adaptable grid based layout that can easily incorporate additional elements.
 
 
 <div class="fl w-100 ph2 " markdown="1">
@@ -46,7 +46,7 @@ For this project I was tasked with creating the web presence for an established 
 <!-- h2 -->
 <p class="alcove f4 f3-ns">Web Development </p>
 
-The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
+For the website, I envisioned a clean, simple, and responsive platform that would translate well to mobile. I prioritized the mobile interface because most users search for a restaurant or a coffee shop while on the move. So although the desktop site had to be interesting and compelling, I concentrated on how that experience would translate and function easily on mobile.
 
 
 

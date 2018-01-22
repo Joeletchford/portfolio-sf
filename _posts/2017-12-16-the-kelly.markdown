@@ -37,7 +37,7 @@ The Kelly is inspired by the elegance of Grace Kelly and the golden age of Holly
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Printed Matter </p>
 
-The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.
+The grid created to develop the K logo mark was used as my system for creating the entire brand; from the printed material to the website design, this grid defines the entire brand.
 
 
 <div class="fl w-100 ph2 " markdown="1">
@@ -60,7 +60,7 @@ The grid created to develop the K logo mark was used as my system for creating t
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Initial Sketches </p>
 
- My initial web sketches focused on creating a site which utilized this grid in an effective and intuitive way, avoiding any gimmick and non user friendly design implementations.
+ My initial web sketches focused on creating a site that utilized this grid in an effective and intuitive way, avoiding any gimmick and non user-friendly design implementations.
 
 
 
@@ -152,7 +152,7 @@ The grid created to develop the K logo mark was used as my system for creating t
 <!-- h2 -->
  <p class="alcove f4 f3-ns"> Web Development </p>
 
-With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage, I focused on getting all the content to work within the grid system while developing effective UI/UX experiences. I also incorporated some interesting design elements while avoiding unnecessary additions.
+With the brand solidified and the idea for the website sketched out, I applied the content to a full design mockup. In this stage, I focused on getting all the content to work within the grid system while developing effective UI/UX experiences. I also incorporated some interesting design elements while avoiding unnecessary additions.
 
 
 <div class="w-100  center flex-l flex-wrap-l" markdown="1">

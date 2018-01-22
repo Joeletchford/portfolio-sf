@@ -5,15 +5,15 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 22:04:09 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 22:04:09 -0500</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2018 19:41:21 -0500</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 19:41:21 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>The Wydown Website</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Initial Sketches &lt;/p&gt;
 
-&lt;p&gt;For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands because The Wydown rebrands each one of its locations whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations; however, I focused on a layout that was grid based and easily manipulated in case they continue to expand in the future.&lt;/p&gt;
+&lt;p&gt;For this project, I created a web presence for an established specialty coffee chain in DC. The website needed to create a simple, structured, and inviting atmosphere for patrons. This brand functions differently than other multiple-location businesses because The Wydown rebrands each new location. Currently, The Wydown operates only two locations in the DC area; however, to facilitate the brand’s expansion, I developed an adaptable grid based layout that can easily incorporate additional elements.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Web Development &lt;/p&gt;
 
-&lt;p&gt;The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
+&lt;p&gt;For the website, I envisioned a clean, simple, and responsive platform that would translate well to mobile. I prioritized the mobile interface because most users search for a restaurant or a coffee shop while on the move. So although the desktop site had to be interesting and compelling, I concentrated on how that experience would translate and function easily on mobile.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -123,7 +123,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Printed Matter &lt;/p&gt;
 
-&lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.&lt;/p&gt;
+&lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand; from the printed material to the website design, this grid defines the entire brand.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -145,7 +145,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Initial Sketches &lt;/p&gt;
 
-&lt;p&gt;My initial web sketches focused on creating a site which utilized this grid in an effective and intuitive way, avoiding any gimmick and non user friendly design implementations.&lt;/p&gt;
+&lt;p&gt;My initial web sketches focused on creating a site that utilized this grid in an effective and intuitive way, avoiding any gimmick and non user-friendly design implementations.&lt;/p&gt;
 
 &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
@@ -227,7 +227,7 @@
     &lt;!-- h2 --&gt;
     &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Development &lt;/p&gt;
 
-    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I moved forward to applying the content to a full design mockup. In this stage, I focused on getting all the content to work within the grid system while developing effective UI/UX experiences. I also incorporated some interesting design elements while avoiding unnecessary additions.&lt;/p&gt;
+    &lt;p&gt;With the brand solidified and the idea for the website sketched out, I applied the content to a full design mockup. In this stage, I focused on getting all the content to work within the grid system while developing effective UI/UX experiences. I also incorporated some interesting design elements while avoiding unnecessary additions.&lt;/p&gt;
 
     &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
@@ -296,7 +296,7 @@
         <title>National Mediation Board</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Mobile first website design process&lt;/p&gt;
 
-&lt;p&gt;For the development of this annual report, I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. When approaching a web site, I went with a mobile first–approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience, it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
+&lt;p&gt;For the development of this annual report, I sought to create a clean and concise web presence. Much like the annual report itself, I created a visual system which kept information as convenient and accessible as possible. When approaching a web site, I helped the client transition to a mobile first–approach which allowed me to focus on a navigation system that was unique from the years prior while simultaneously simplifying the interaction. The mobile-first approach stripped the interface of anything that could make the navigation confusing so that users could consume the material efficiently from their mobile devices.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
@@ -325,12 +325,12 @@
 
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Design&lt;/p&gt;
 
-&lt;p&gt;Once I nailed down the mobile navigation and interactions, I then moved onto the desktop version of the site. This design had to also include the images and identity created for this year’s annual. This identity system influenced the navigation since I had to find a way to creatively include the gridded image–making system. A few improvements and simplifications I made from the previous designs included:&lt;/p&gt;
+&lt;p&gt;Once I nailed down the mobile navigation and interactions, I developed the desktop version of the site, which needed to include the images and identity created for this year’s annual. This identity system influenced the navigation since it needed to creatively include the gridded image–making system. A few improvements and simplifications I made from the previous designs included:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;A navigation system which itself is the main content&lt;/li&gt;
-  &lt;li&gt;Secondary navigation which allows the user to click forward or backword within destinations to continue onto sections fluidly&lt;/li&gt;
-  &lt;li&gt;Single scrolling sections to alleviate multiple clicks&lt;/li&gt;
-  &lt;li&gt;Fixed Menu button at the bottom of section pages for a more obvious navigation&lt;/li&gt;
+  &lt;li&gt;A navigation system which itself was the main content&lt;/li&gt;
+  &lt;li&gt;Secondary navigation which allowed the user to click forward or backward within destinations fluidly&lt;/li&gt;
+  &lt;li&gt;Single scrolling sections to minimize multiple clicks&lt;/li&gt;
+  &lt;li&gt;A fixed Menu button at the bottom of section pages for a more intuitive navigation experience&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
@@ -363,7 +363,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Gridded Image System &lt;/p&gt;
 
-&lt;p&gt;This image system created for this years annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is—for the most part—methodical and structured, but also has its idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.&lt;/p&gt;
+&lt;p&gt;The image system created for this year’s annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is — for the most part — methodical and structured, but is not devoid of subtle idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -424,7 +424,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Proposed concept for the same annual&lt;/p&gt;
 
-&lt;p&gt;This concept was focused on a responsive type treatment which itself was based on momentum. The hero type would have responded to screen size and paper size for the printed annual.&lt;/p&gt;
+&lt;p&gt;This concept focused on a responsive type treatment which itself was based on momentum. The hero type also responded well to various screen and paper sizes for the web and print annual.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -468,7 +468,7 @@
         <title>2016 Graduate Thesis</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Graduate Thesis Publication &lt;/p&gt;
 
-&lt;p&gt;The design of this catalog was based around two sidereal years to represent the amount of time these graduates spent in the program. Another major conceptual aspect to this publication had to do with the spiral bind. This binding decision was dictated by my desire for the cycle and that the publication itself was a cyclical object, not linear. Keeping with this conceptual idea, I created the system within the publication to adhere to this cycle. Each spread theoretically represents itself as the cover, by keeping the necessary information visible you will always know what it is you are picking up.&lt;/p&gt;
+&lt;p&gt;The design of this catalog was based around two sidereal years representing the amount of time these graduates spent in the program. Another major conceptual aspect centered on the spiral bind. This binding decision was dictated by the idea of a cycle and that the publication itself was a cyclical, as opposed to linear, object. Keeping with this concept, I reiterated the cyclical system within the publication’s individual spreads. Each spread could theoretically represent itself as the cover of the book, eliminating the idea of a beginning and end.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -514,7 +514,10 @@
     
       <item>
         <title>Disconnection; A Neutral-Gear A Semi-Solid</title>
-        <description>&lt;p&gt;This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
+        <description>&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Thesis Publication &lt;/p&gt;
+
+&lt;p&gt;This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -523,7 +526,7 @@
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
+&lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint, I explore the notion of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness — or presence — but, paradoxically, disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -538,33 +541,7 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Thesis Web Design &lt;/p&gt;
 
-&lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Environment Application &lt;/p&gt;
-
-&lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
+&lt;p&gt;The main body of work created in parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are insights into our technologies’ presence, best illustrated as the atmosphere. The interactions represents how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
@@ -608,9 +585,9 @@
         <description>&lt;!--
 ![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
 
-&lt;p class=&quot;alcove f4 f3-ns &quot;&gt; Half Baked, One-off, designed material to enjoy &lt;/p&gt;
+&lt;p class=&quot;alcove f4 f3-ns &quot;&gt; Half-Baked, One-off, designed material to enjoy &lt;/p&gt;
 
-&lt;p&gt;This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.&lt;/p&gt;
+&lt;p&gt;This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half-baked ideas, or just one-off designs. However, I believe they all have helped to inform my practice and are worth showing.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.gif&quot; alt=&quot;Half&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
