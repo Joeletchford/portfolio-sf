@@ -2,15 +2,12 @@
 layout: post
 title:  "The Kelly Apartments"
 date:   2017-12-28 01:43:32 -0400
-img: images/kelly/postcard3.png
-head-img: images/kelly/postcard3.png
+img: /images/kelly/postcard3.png
+head-img: /images/kelly/postcard3.png
 year: 2017
 type: Identity, Web Design.  
 location: Bala Cynwyd, PA
-webtitle: Website </span> —
-website: http://www.thekellyapts.com/
-websitename: The Kelly Apartments &rarr;
-style: f6 pv2 bb
+
 ---
 
  <p class="alcove f4 f3-ns"> Logo lockup and visual System </p>
@@ -19,17 +16,17 @@ style: f6 pv2 bb
 The Kelly is inspired by the elegance of Grace Kelly and the golden age of Hollywood. The logo mark was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District, PA.
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly]({{ site.baseurl }}/images/kelly/postcard3.png){: .db .w-100 }
+![kelly](/images/kelly/postcard3.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly k break]({{ site.baseurl }}/images/kelly/postcard4.png){: .db .w-100 }
+![kelly k break](/images/kelly/postcard4.png){: .db .w-100 }
 </div>
 
 
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly grid]({{ site.baseurl }}/images/kelly/postcard5.png){: .db .w-100 }
+![kelly grid](/images/kelly/postcard5.png){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -41,17 +38,17 @@ The grid created to develop the K logo mark was used as my system for creating t
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![kelly postcard front]({{ site.baseurl }}/images/kelly/postcard6.png){: .db .w-100 }
+![kelly postcard front](/images/kelly/postcard6.png){: .db .w-100 }
 </div>
 <div class="fl w-100 ph2 " markdown="1">
-![kelly postcard back]({{ site.baseurl }}/images/kelly/postcard7.png){: .db .w-100 }
+![kelly postcard back](/images/kelly/postcard7.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly postcard front]({{ site.baseurl }}/images/kelly/postcard.png){: .db .w-100 }
+![kelly postcard front](/images/kelly/postcard.png){: .db .w-100 }
 </div>
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly postcard back]({{ site.baseurl }}/images/kelly/postcard2.png){: .db .w-100 }
+![kelly postcard back](/images/kelly/postcard2.png){: .db .w-100 }
 </div>
 
 
@@ -68,13 +65,13 @@ The grid created to develop the K logo mark was used as my system for creating t
 
 
  <div class="fl w-100  ph2 " markdown="1">
- ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-1.jpg){: .db .w-100 }
+ ![kelly sketch](/images/kelly/wire-1.jpg){: .db .w-100 }
  </div>
  <div class="fl w-100  w-50-l ph2 " markdown="1">
- ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-2.jpg){: .db .w-100 }
+ ![kelly sketch](/images/kelly/wire-2.jpg){: .db .w-100 }
  </div>
  <div class="fl w-100 w-50-l ph2 " markdown="1">
- ![kelly sketch]({{ site.baseurl }}/images/kelly/wire-3.jpg){: .db .w-100 }
+ ![kelly sketch](/images/kelly/wire-3.jpg){: .db .w-100 }
  </div>
  </div>
 
@@ -83,31 +80,31 @@ The grid created to develop the K logo mark was used as my system for creating t
 
 
 <!-- <div class="fl w-50-l ph2" markdown="1">
-![kelly land]({{ site.baseurl }}/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
+![kelly land](/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
 </div> -->
 
 
 <div class="fl w-50-l ph2 " markdown="1">
-![kelly fill home ]({{ site.baseurl }}/images/kelly/web/desk/Kelly_desktop_home.jpg){: .db  }
+![kelly fill home ](/images/kelly/web/desk/Kelly_desktop_home.jpg){: .db  }
 </div>
 
 
 
 <!-- <div class="fl w-50-l ph2" markdown="1">
-![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
+![kelly floorplan](/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
 </div> -->
 
 <div class="fl w-50-l ph2" markdown="1">
-![kelly neighborhood ]({{ site.baseurl }}/images/kelly/web/desk/Kelly_Neighborhood.jpg){: .db }
+![kelly neighborhood ](/images/kelly/web/desk/Kelly_Neighborhood.jpg){: .db }
 </div>
 
 <div class="fl w-50-l ph2 " markdown="1">
-![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_Floorplan_detail.jpg){: .db  }
+![kelly floorplan](/images/kelly/web/desk/Kelly_Floorplan_detail.jpg){: .db  }
 </div>
 
 
 <div class="fl w-50-l ph2 " markdown="1">
-![kelly floorplan]({{ site.baseurl }}/images/kelly/web/desk/Kelly_nav option.jpg){: .db  }
+![kelly floorplan](/images/kelly/web/desk/Kelly_nav option.jpg){: .db  }
 </div>
 
 
@@ -115,35 +112,35 @@ The grid created to develop the K logo mark was used as my system for creating t
 
 <!--
 <div class="fl w-25-l ph2 " markdown="1">
-![kelly mobile land ]({{ site.baseurl }}/images/kelly/web/landing_page_mobile.jpg){: .db  }
+![kelly mobile land ](/images/kelly/web/landing_page_mobile.jpg){: .db  }
 </div> -->
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly phome mobile]({{ site.baseurl }}/images/kelly/web/Home_mobile.jpg){: .db }
+![kelly phome mobile](/images/kelly/web/Home_mobile.jpg){: .db }
 </div>
 
 <!-- <div class="fl w-25-l ph2 " markdown="1">
-![floor plan ]({{ site.baseurl }}/images/kelly/web/Floorplan-landing.jpg){: .db  }
+![floor plan ](/images/kelly/web/Floorplan-landing.jpg){: .db  }
 </div> -->
 
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![floorplan]({{ site.baseurl }}/images/kelly/web/floorplans.jpg){: .db  }
+![floorplan](/images/kelly/web/floorplans.jpg){: .db  }
 </div>
 
 <!-- <div class="fl w-25-l ph2 " markdown="1">
-![meniu]({{ site.baseurl }}/images/kelly/web/menu-mobile.jpg){: .db  }
+![meniu](/images/kelly/web/menu-mobile.jpg){: .db  }
 </div> -->
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly neighborhood ]({{ site.baseurl }}/images/kelly/web/neighborhood-mobile.jpg){: .db  }
+![kelly neighborhood ](/images/kelly/web/neighborhood-mobile.jpg){: .db  }
 </div>
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly neighborhood]({{ site.baseurl }}/images/kelly/web/neighnorhood-click.jpg){: .db }
+![kelly neighborhood](/images/kelly/web/neighnorhood-click.jpg){: .db }
 </div>
 
 <!-- <div class="fl w-25-l ph2 " markdown="1">
-![image ]({{ site.baseurl }}/images/kelly/web/image-expanded-m.jpg){: .db  }
+![image ](/images/kelly/web/image-expanded-m.jpg){: .db  }
 </div> -->
 
 
@@ -159,54 +156,70 @@ With the brand solidified and the idea for the website sketched out, I moved for
 
 
  <div class="fl w-100  ph2 " markdown="1">
- ![kelly land]({{ site.baseurl }}/images/kelly/full/kelly_landing_view.jpg){: .db .w-100 }
+ ![kelly land](/images/kelly/full/kelly_landing_view.jpg){: .db .w-100 }
  </div>
 
  <div class="fl w-100 w-50-l ph2 " markdown="1">
- ![kelly desk]({{ site.baseurl }}/images/kelly/full/Kelly_desktop_home.jpg){: .db .w-100 }
+ ![kelly desk](/images/kelly/full/Kelly_desktop_home.jpg){: .db .w-100 }
  </div>
 
  <div class="fl w-100 w-50-l ph2 " markdown="1">
- ![neighborhood]({{ site.baseurl }}/images/kelly/full/kelly_neighborhood.jpg){: .db .w-100 }
+ ![neighborhood](/images/kelly/full/kelly_neighborhood.jpg){: .db .w-100 }
  </div>
 
 
  <div class="fl w-100  w-50-l ph2 " markdown="1">
- ![kelly gallery]({{ site.baseurl }}/images/kelly/full/Kelly_gallery.jpg){: .db .w-100 }
+ ![kelly gallery](/images/kelly/full/Kelly_gallery.jpg){: .db .w-100 }
  </div>
 
  <div class="fl w-100  w-50-l ph2 " markdown="1">
- ![kelly gallery]({{ site.baseurl }}/images/kelly/full/Kelly_Gallery_full.jpg){: .db .w-100 }
+ ![kelly gallery](/images/kelly/full/Kelly_Gallery_full.jpg){: .db .w-100 }
  </div>
 
  <div class="fl w-100  w-50-l ph2 " markdown="1">
- ![kelly gallery]({{ site.baseurl }}/images/kelly/full/kelly_nav_option.jpg){: .db .w-100 }
+ ![kelly gallery](/images/kelly/full/kelly_nav_option.jpg){: .db .w-100 }
  </div>
 
  <div class="fl w-100  w-50-l ph2 " markdown="1">
- ![kelly gallery]({{ site.baseurl }}/images/kelly/full/Kelly_404.jpg){: .db .w-100 }
+ ![kelly gallery](/images/kelly/full/Kelly_404.jpg){: .db .w-100 }
  </div>
 
 <!-- mobile -->
 
  <div class="fl w-25-l w-50 ph2" markdown="1">
- ![kelly]({{ site.baseurl }}/images/kelly/full/home.jpg){: .db  }
+ ![kelly](/images/kelly/full/home.jpg){: .db  }
  </div>
 
  <div class="fl w-25-l w-50 ph2" markdown="1">
- ![kelly neighborhood]({{ site.baseurl }}/images/kelly/full/neighborhood.jpg){: .db }
+ ![kelly neighborhood](/images/kelly/full/neighborhood.jpg){: .db }
  </div>
 
  <div class="fl w-25-l w-50 ph2" markdown="1">
- ![kelly gallery]({{ site.baseurl }}/images/kelly/full/gallery_mobile.jpg){: .db  }
+ ![kelly gallery](/images/kelly/full/gallery_mobile.jpg){: .db  }
  </div>
 
  <div class="fl w-25-l w-50 ph2" markdown="1">
- ![kelly ]({{ site.baseurl }}/images/kelly/full/menu_mobile.jpg){: .db }
+ ![kelly ](/images/kelly/full/menu_mobile.jpg){: .db }
  </div>
 
  <div class="fl w-100  ph2 " markdown="1">
- ![kelly land]({{ site.baseurl }}/images/kelly/full/Interactions.jpg){: .db .w-100 }
+ ![kelly land](/images/kelly/full/Interactions.jpg){: .db .w-100 }
  </div>
 
  </div>
+
+
+ <!-- line -->
+ <p class=" mt0 w-100 dib bb mb5 pb3"/>
+ <!-- h2 -->
+  <p class="alcove f4 f3-ns">Credits </p>
+
+  Joe Letchford, designer
+
+  Sucha Becky, art director
+
+  Pum Lefebure, creative director
+
+  Jake Lefebure, project manager
+
+  Design Army, design firm

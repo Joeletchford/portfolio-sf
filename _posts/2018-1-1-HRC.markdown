@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Human Rights Campaign 2018"
+date:   2017-12-28 01:43:32 -0400
+img: 		/images/hrc/hrc-cover.jpg
+head-img:  /images/hrc/hrc-cover.jpg
+year: 2017–18
+type: Publication.  
+location: Washington, DC
+webtitle: D&AD </span> –
+website: https://www.dandad.org/awards/professional/2018/graphic-design/26952/hrc-annual-report/
+websitename: HRC Annual Report &rarr;
+style: pv2 bb
+
+webtitle2: Commarts </span> –
+website2: https://www.commarts.com/project/27599/human-rights-campaign-annual-report
+webstyle: pv2 bb
+websitename2: HRC Annual Report &rarr;
+
+---
+
+<p class="alcove f4 f3-ns"> Human Rights Campaign annual Report 2017 </p>
+
+For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was made to ‘strip’ back the full-color, glossy publications of prior years. Instead, we designed a large-format magazine. We simplified by using only two colors—HRC’s brand color with crisp black—and printing on newsprint. We made typography the primary vehicle of storytelling. Every spread strengthens the central message—‘unite, resist and enlist’—and the type was modified, elongated and stretched to reflect the tension between the activist and the new administration. The piece is visually striking and dynamic; but more importantly, it energizes the reader to do ‘more.’
+
+32 pages, 12 1/2 × 22, black plus 1 PMS, folded. visible you will always know what it is you are picking up.
+
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![kelly logo](/images/hrc/hrc-cover.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![kelly logo](/images/hrc/hrc-1.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![kelly logo](/images/hrc/hrc-2.jpg){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns">Credits </p>
+
+ Joe Letchford, designer
+
+ Sucha Becky, art director
+
+ Pum Lefebure, creative director
+
+ Jake Lefebure, project manager
+
+ Design Army, design firm
+
+ Human Rights Campaign, client

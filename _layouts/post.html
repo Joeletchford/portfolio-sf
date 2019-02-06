@@ -18,15 +18,16 @@
 							<p class="pv2 f6 bb "><span class="alcove "> Scope  </span>— {{ page.type }}</p>
 								<p class="pv2 f6  bb "><span class="alcove "> Location  </span>— {{ page.location }}</p>
 									<p class="{{ page.style }}">
-										<span class="alcove">{{ page.webtitle }} </span>
-											<a class= "measure f6 mt2 black link underline-hover" target="_blank" href="{{ page.website }}"> {{ page.websitename }}
-											</a>
+										<span class="alcove ">{{ page.webtitle }} </span>
+											<a class= "measure f6 mt2 black link underline-hover " target="_blank" href="{{ page.website }}"> {{ page.websitename }}
+                      </a>
 										</p>
-										<p class="{{ page.pubstyle }}">
-											<span class="alcove">{{ page.pubtitle }} </span>
-												<a class= "measure f6 mt2 black link underline-hover" target="_blank" href="{{ page.pubsite }}"> {{ page.pubname }}
-												</a>
-											</p>
+                    <p class="{{ page.webstyle }}">
+                      <span class="alcove">{{ page.webtitle2 }} </span>
+                        <a class= "measure f6 mt2 black link underline-hover" target="_blank" href="{{ page.website2 }}"> {{ page.websitename2 }}
+                        </a>
+                      </p>
+
 									<!-- <h1 class="pb3 f6 bb ">{{ page.information }}</h1> -->
 					</div>
 			  </div>
@@ -36,7 +37,7 @@
 				<div class="bg-black overflow-hidden-l vh-100-l overflow-scroll-l">
 					<div class="white bg-black fl fl-ns h-100 circular">
 					   <div class="bg-black db center-ns lh-copy">
-					      <img class="center w-100 pb5" src="{{ site.baseurl }}/{{ page.head-img }}" alt="">
+					      <img class="center w-100 pb5" src="{{ page.head-img }}" alt="">
 					      	<div class="f5-ns f6 w-80-l w-100 ph2 center cf ">
 					      		{{ content }}
 					      	</div>

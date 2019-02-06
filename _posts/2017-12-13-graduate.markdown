@@ -20,24 +20,24 @@ The design of this catalog was based around two sidereal years to represent the 
 
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/cover.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/cover.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/coveropen.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/eric.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/liza.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/coveropen.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/preston.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/eric.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/redspread.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/liza.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![kelly logo](/images/thesis-exhibition/preston.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![kelly logo](/images/thesis-exhibition/redspread.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -46,9 +46,9 @@ The design of this catalog was based around two sidereal years to represent the 
  <p class="alcove f4 f3-ns">Select Exhibition Signage </p>
 
 <div class="w-100 w-50-ns center pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/poster.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/poster.jpg){: .db .w-100 }
 </div>
 
 <div class="w-100 w-50-ns center pr2-l pb2" markdown="1">
-![kelly logo]({{ site.baseurl }}/images/thesis-exhibition/map.jpg){: .db .w-100 }
+![kelly logo](/images/thesis-exhibition/map.jpg){: .db .w-100 }
 </div>

@@ -1,0 +1,186 @@
+---
+layout: post
+title:  "National Mediation Board"
+date:   2017-12-28 01:43:32 -0400
+img: /images/nmb/desk/2_grid.jpg
+head-img: /images/nmb/head.png
+year: 2017
+type: Publication & Web Design.   
+location: Washington, DC.
+
+---
+
+ <p class="alcove f4 f3-ns"> Mobile first website design process</p>
+
+For the development of this annual report, I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. When approaching a web site, I went with a mobile first–approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience, it would have to be stripped of anything that could make the navigation confusing.
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/3.png){: .db  }
+</div>
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/4.png){: .db }
+</div>
+
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/2.png){: .db }
+</div>
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/1.png){: .db  }
+</div>
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/7.png){: .db  }
+</div>
+
+
+
+<div class="fl w-25-l w-50 ph2" markdown="1">
+![nmb mobile](/images/nmb/mob/5.png){: .db  }
+</div>
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Web Design</p>
+
+Once I nailed down the mobile navigation and interactions, I then moved onto the desktop version of the site. This design had to also include the /images and identity created for this year's annual. This identity system influenced the navigation since I had to find a way to creatively include the gridded image–making system. A few improvements and simplifications I made from the previous designs included:
+* A navigation system which itself is the main content
+* Secondary navigation which allows the user to click forward or backword within destinations to continue onto sections fluidly
+* Single scrolling sections to alleviate multiple clicks
+* Fixed Menu button at the bottom of section pages for a more obvious navigation
+
+
+<div class="fl w-100  w-50-l  ph2 " markdown="1">
+![nmb desk](/images/nmb/desk/1.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb](/images/nmb/desk/2.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  ph2 " markdown="1">
+![nmb grid](/images/nmb/desk/4.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  ph2 " markdown="1">
+![nmb land](/images/nmb/desk/5.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb](/images/nmb/desk/6.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb k break](/images/nmb/desk/7.png){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Gridded Image System </p>
+
+This image system created for this years annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is—for the most part—methodical and structured, but also has its idiosyncrasies. This balance of both cadence and happenstance is what influenced the /images and overall system.
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb](/images/nmb/desk/2_grid.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l  ph2 " markdown="1">
+![nmb land](/images/nmb/desk/1_grid.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l  ph2 " markdown="1">
+![nmb land](/images/nmb/desk/3_grid.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb](/images/nmb/desk/4_grid.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb](/images/nmb/desk/6_grid.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l  ph2 " markdown="1">
+![nmb land](/images/nmb/desk/7_grid.jpg){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns"> Publication </p>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/1.png){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/5.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/3.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/42.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/22.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/book/32.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns">Proposed concept for the same annual</p>
+
+This concept was focused on a responsive type treatment which itself was based on momentum. The hero type would have responded to screen size and paper size for the printed annual.
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/1.png){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/2.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/3.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/4.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-50 w-25-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/1-mob.png){: .db .w-100 }
+</div>
+
+
+<div class="fl w-50  w-25-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/2-mob.png){: .db .w-100 }
+</div>
+
+<div class="fl w-50  w-25-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/3-mob.png){: .db .w-100 }
+</div>
+
+<div class="fl w-50  w-25-l ph2 " markdown="1">
+![nmb PUB](/images/nmb/4-mob.png){: .db .w-100 }
+</div>

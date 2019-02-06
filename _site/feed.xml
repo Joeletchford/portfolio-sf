@@ -3,11 +3,153 @@
   <channel>
     <title>Joe Letchford Portfolio</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2018 22:04:09 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2018 22:04:09 -0500</lastBuildDate>
+    <link>/portfolio-sf/</link>
+    <atom:link href="/portfolio-sf/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Feb 2019 20:27:45 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Feb 2019 20:27:45 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Google Brand Studio</title>
+        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Google Brand Studio&lt;/p&gt;
+
+&lt;p&gt;While working at Google I worked on numerous projects that ranged from branding, web design, publication design, and video art direction.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/GameOfTheYear_1.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Game of the Year 2018&lt;/p&gt;
+
+&lt;p&gt;This past year I had the opportunity to work on a new initiative for Google’s Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/GameOfTheYear_1.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/GameOfTheYear_4.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Doodle for Google &lt;/p&gt;
+
+&lt;p&gt;The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/1.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/2.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/3.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/4.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Search On Publication &lt;/p&gt;
+
+&lt;p&gt;The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/face.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/face-close.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/spine.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/riding-section.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/riding-section-close.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/eye-fit-close.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/trees.png&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/google.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/google.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Human Rights Campaign 2018</title>
+        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Human Rights Campaign annual Report 2017 &lt;/p&gt;
+
+&lt;p&gt;For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was made to ‘strip’ back the full-color, glossy publications of prior years. Instead, we designed a large-format magazine. We simplified by using only two colors—HRC’s brand color with crisp black—and printing on newsprint. We made typography the primary vehicle of storytelling. Every spread strengthens the central message—‘unite, resist and enlist’—and the type was modified, elongated and stretched to reflect the tension between the activist and the new administration. The piece is visually striking and dynamic; but more importantly, it energizes the reader to do ‘more.’&lt;/p&gt;
+
+&lt;p&gt;32 pages, 12 1/2 × 22, black plus 1 PMS, folded. visible you will always know what it is you are picking up.&lt;/p&gt;
+
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-1.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
+
+&lt;p&gt;Joe Letchford, designer&lt;/p&gt;
+
+&lt;p&gt;Sucha Becky, art director&lt;/p&gt;
+
+&lt;p&gt;Pum Lefebure, creative director&lt;/p&gt;
+
+&lt;p&gt;Jake Lefebure, project manager&lt;/p&gt;
+
+&lt;p&gt;Design Army, design firm&lt;/p&gt;
+
+&lt;p&gt;Human Rights Campaign, client&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/HRC.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/HRC.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The Wydown Website</title>
@@ -91,10 +233,26 @@
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/wydown/4-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;!-- h2 --&gt;
+&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
+
+&lt;p&gt;Joe Letchford, designer&lt;/p&gt;
+
+&lt;p&gt;Sucha Becky, art director&lt;/p&gt;
+
+&lt;p&gt;Pum Lefebure, creative director&lt;/p&gt;
+
+&lt;p&gt;Jake Lefebure, project manager&lt;/p&gt;
+
+&lt;p&gt;Design Army, design firm&lt;/p&gt;
 </description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-wydown.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-wydown.html</guid>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/the-wydown.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/the-wydown.html</guid>
         
         
       </item>
@@ -282,184 +440,28 @@
       &lt;/div&gt;
 
     &lt;/div&gt;
+
+    &lt;p&gt;&lt;!-- line --&gt;&lt;/p&gt;
+    &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+    &lt;p&gt;&lt;!-- h2 --&gt;&lt;/p&gt;
+    &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
+
+    &lt;p&gt;Joe Letchford, designer&lt;/p&gt;
+
+    &lt;p&gt;Sucha Becky, art director&lt;/p&gt;
+
+    &lt;p&gt;Pum Lefebure, creative director&lt;/p&gt;
+
+    &lt;p&gt;Jake Lefebure, project manager&lt;/p&gt;
+
+    &lt;p&gt;Design Army, design firm&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/the-kelly.html</link>
-        <guid isPermaLink="true">/2017/12/28/the-kelly.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>National Mediation Board</title>
-        <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Mobile first website design process&lt;/p&gt;
-
-&lt;p&gt;For the development of this annual report, I set forth to create a clean and concise web presence. Much like the annual report itself, I tasked myself to create a visual system which kept information as easily consumable as possible. When approaching a web site, I went with a mobile first–approach. This process allowed me to focus on a navigation system that was unique from the years prior, while simultaneously simplifying the interaction. My thought was that if this annual was to be read on mobile by its target audience, it would have to be stripped of anything that could make the navigation confusing.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/3.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/4.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/2.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/1.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/7.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/mob/5.png&quot; alt=&quot;nmb mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Web Design&lt;/p&gt;
-
-&lt;p&gt;Once I nailed down the mobile navigation and interactions, I then moved onto the desktop version of the site. This design had to also include the images and identity created for this year’s annual. This identity system influenced the navigation since I had to find a way to creatively include the gridded image–making system. A few improvements and simplifications I made from the previous designs included:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A navigation system which itself is the main content&lt;/li&gt;
-  &lt;li&gt;Secondary navigation which allows the user to click forward or backword within destinations to continue onto sections fluidly&lt;/li&gt;
-  &lt;li&gt;Single scrolling sections to alleviate multiple clicks&lt;/li&gt;
-  &lt;li&gt;Fixed Menu button at the bottom of section pages for a more obvious navigation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1.png&quot; alt=&quot;nmb desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4.png&quot; alt=&quot;nmb grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/5.png&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6.png&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7.png&quot; alt=&quot;nmb k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Gridded Image System &lt;/p&gt;
-
-&lt;p&gt;This image system created for this years annual was rooted in the idea that both planes and trains have an audible rhythm when in motion. This rhythm is—for the most part—methodical and structured, but also has its idiosyncrasies. This balance of both cadence and happenstance is what influenced the images and overall system.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/2_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/1_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/3_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/4_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/6_grid.jpg&quot; alt=&quot;nmb&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/desk/7_grid.jpg&quot; alt=&quot;nmb land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Publication &lt;/p&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/5.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/3.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/42.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/22.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/book/32.jpg&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Proposed concept for the same annual&lt;/p&gt;
-
-&lt;p&gt;This concept was focused on a responsive type treatment which itself was based on momentum. The hero type would have responded to screen size and paper size for the printed annual.&lt;/p&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/1.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/2.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/3.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/4.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-50 w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/1-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/2-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/3-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-50  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/images/nmb/4-mob.png&quot; alt=&quot;nmb PUB&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/nmb.html</link>
-        <guid isPermaLink="true">/2017/12/28/nmb.html</guid>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/the-kelly.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/the-kelly.html</guid>
         
         
       </item>
@@ -505,9 +507,9 @@
   &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/graduate.html</link>
-        <guid isPermaLink="true">/2017/12/28/graduate.html</guid>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/graduate.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/graduate.html</guid>
         
         
       </item>
@@ -596,9 +598,9 @@
   &lt;iframe frameborder=&quot;0&quot; height=&quot;564&quot; src=&quot;https://player.vimeo.com/video/212339354&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/disconnection.html</link>
-        <guid isPermaLink="true">/2017/12/28/disconnection.html</guid>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/disconnection.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/disconnection.html</guid>
         
         
       </item>
@@ -740,9 +742,9 @@
 
 ~~~ --&gt;
 </description>
-        <pubDate>Thu, 28 Dec 2017 00:43:32 -0500</pubDate>
-        <link>/2017/12/28/various.html</link>
-        <guid isPermaLink="true">/2017/12/28/various.html</guid>
+        <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
+        <link>/portfolio-sf/2017/12/27/various.html</link>
+        <guid isPermaLink="true">/portfolio-sf/2017/12/27/various.html</guid>
         
         
       </item>

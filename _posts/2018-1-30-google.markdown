@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "Google Brand Studio"
+date:   2017-12-28 01:43:32 -0400
+img: /images/google/home-headder.png
+
+year: 2018&rarr;2019
+type: Web Design, Branding, Publication Design.  
+location: San Francisco, CA.
+webtitle: Website(s) </span> —
+website: https://doodles.google.com/d4g/
+websitename: Game of the Year,<span> <a class="f6 mt2 black link underline-hover" target="_blank" href="https://doodles.google.com/d4g/">Doodle for Google, </a> <span> <a class="f6 mt2 black link underline-hover" target="_blank" href="https://www.youtube.com/playlist?list=PL590L5WQmH8dIdGztNYxH2SyMKwY_2Zwq#_ga=2.255468170.388998004.1549253508-943015284.1549253508">Search On, </a>
+website-1: https://gameoftheyear.withgoogle.com/
+websitename-1: Game of the Year &rarr;
+
+style: f6 pv2 bb
+
+---
+
+ <p class="alcove f4 f3-ns">Google Brand Studio</p>
+
+While working at Google I worked on numerous projects that ranged from branding, web design, publication design, and video art direction.
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![game of the year home](/images/google/GameOfTheYear_1.png){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns">Game of the Year 2018</p>
+
+This past year I had the opportunity to work on a new initiative for Google's Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/GameOfTheYear_1.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/GameOfTheYear_4.png){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns"> Doodle for Google </p>
+
+The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![doodle-4-google](/images/google/d4g/1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![doodle-4-google](/images/google/d4g/2.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![doodle-4-google](/images/google/d4g/3.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![doodle-4-google](/images/google/d4g/4.jpg){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+ <p class="alcove f4 f3-ns">Credits </p>
+
+ 
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns"> Search On Publication </p>
+
+The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/face.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/face-close.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/spine.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/riding-section.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/riding-section-close.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/eye-fit-close.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/search-on/trees.png){: .db .w-100 }
+</div>
