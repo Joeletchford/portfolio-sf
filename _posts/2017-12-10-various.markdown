@@ -2,7 +2,7 @@
 layout: post
 title:  "Logos and Various Projects"
 date:   2017-12-28 01:43:32 -0400
-img: images/various/2-7-19/endless-brand.jpg
+img: /images/various/2-7-19/title.jpg
 head-img:
 year: 2017
 type: Publication, Web, Exhibition, Illustration, Infographic.  
@@ -10,7 +10,7 @@ location: Minneapolis, Richmond, DC.
 
 ---
 <!--
-![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
+![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
 
 <p class="alcove f4 f3-ns "> Various branding projects and one off designed material to enjoy </p>
 
@@ -20,10 +20,10 @@ This post is a collection of various projects and materials that I have created 
 
 <!-- endless -->
 <div class="fl w-100-l w-100 ph2 " markdown="1">
-![endless](/images/various/2-7-19/endless-brand.jpg){: .db .w-100 }
+![endless]({{ site.baseurl }}/images/various/2-7-19/endless-brand.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100-l w-100 ph2 " markdown="1">
-![endless](/images/various/2-7-19/endless-label.jpg){: .db .w-100 }
+![endless]({{ site.baseurl }}/images/various/2-7-19/endless-label.jpg){: .db .w-100 }
 </div>
 
 
@@ -32,7 +32,7 @@ This post is a collection of various projects and materials that I have created 
 
 <!-- two chimes  -->
 <div class="fl w-100-l w-100 ph2 " markdown="1">
-![2-chimes](/images/various/2-7-19/two-chimes.jpg){: .db .w-100 }
+![2-chimes]({{ site.baseurl }}/images/various/2-7-19/two-chimes.jpg){: .db .w-100 }
 </div>
 
 
@@ -40,29 +40,29 @@ This post is a collection of various projects and materials that I have created 
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100-l w-100 ph2 " markdown="1">
-![ugly](/images/various/2-7-19/ugly.jpg){: .db .w-100 }
+![ugly]({{ site.baseurl }}/images/various/2-7-19/ugly.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">
-![rh](/images/various/postcard.png){: .db .w-100 }
+![rh]({{ site.baseurl }}/images/various/postcard.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh](/images/various/RWD-browser_1.jpg){: .db .w-100 }
+![rh]({{ site.baseurl }}/images/various/RWD-browser_1.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l  ph2 " markdown="1">
-![rh](/images/various/RWD-browser_2.jpg){: .db .w-100 }
+![rh]({{ site.baseurl }}/images/various/RWD-browser_2.jpg){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh](/images/various/RWD-browser_3.jpg){: .db .w-100 }
+![rh]({{ site.baseurl }}/images/various/RWD-browser_3.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh](/images/various/RWD-browser_4.jpg){: .db .w-100 }
+![rh]({{ site.baseurl }}/images/various/RWD-browser_4.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -70,11 +70,11 @@ This post is a collection of various projects and materials that I have created 
 
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![Third Rail](/images/various/rowden.jpg){: .db .w-100 }
+![Third Rail]({{ site.baseurl }}/images/various/rowden.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l  ph2 " markdown="1">
-![NYC postcard](/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+![NYC postcard]({{ site.baseurl }}/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
 </div>
 
 
@@ -82,10 +82,10 @@ This post is a collection of various projects and materials that I have created 
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">
-![house as field ](/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
+![house as field ]({{ site.baseurl }}/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 ph2 " markdown="1">
-![house as field](/images/various/A4-Paper-PSD-MockUp-4.jpg){: .db .w-100 }
+![house as field]({{ site.baseurl }}/images/various/A4-Paper-PSD-MockUp-4.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -93,17 +93,17 @@ This post is a collection of various projects and materials that I have created 
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![Masters of Sustainability](/images/various/10.jpg){: .db .w-100 }
+![Masters of Sustainability]({{ site.baseurl }}/images/various/10.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-50-l w-100 ph2 " markdown="1">
-![print](/images/various/print-mag.gif){: .db .w-100 }
+![print]({{ site.baseurl }}/images/various/print-mag.gif){: .db .w-100 }
 </div>
 <div class="fl w-50-l w-100 ph2 " markdown="1">
-![print](/images/various/print-mag.jpg){: .db .w-100 }
+![print]({{ site.baseurl }}/images/various/print-mag.jpg){: .db .w-100 }
 </div>
 
 
@@ -114,7 +114,7 @@ This post is a collection of various projects and materials that I have created 
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![baseline](/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png){: .db .w-100 }
+![baseline]({{ site.baseurl }}/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png){: .db .w-100 }
 </div>
 
 
@@ -122,7 +122,7 @@ This post is a collection of various projects and materials that I have created 
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">
-![Thesis diagram](/images/various/presentation31.jpg){: .db .w-100 }
+![Thesis diagram]({{ site.baseurl }}/images/various/presentation31.jpg){: .db .w-100 }
 </div>
 
 
@@ -131,13 +131,13 @@ This post is a collection of various projects and materials that I have created 
 
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![thesis](/images/various/Thesis26.jpg){: .db .w-100 }
+![thesis]({{ site.baseurl }}/images/various/Thesis26.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![thesis](/images/various/Thesis29.jpg){: .db .w-100 }
+![thesis]({{ site.baseurl }}/images/various/Thesis29.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 ph2 " markdown="1">
-![thesis](/images/various/Thesis30.jpg){: .db .w-100 }
+![thesis]({{ site.baseurl }}/images/various/Thesis30.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -145,7 +145,7 @@ This post is a collection of various projects and materials that I have created 
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![eyes](/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png){: .db .w-100 }
+![eyes]({{ site.baseurl }}/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png){: .db .w-100 }
 </div>
 
 

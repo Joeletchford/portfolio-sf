@@ -20,25 +20,25 @@ For this project I was tasked with creating the web presence for an established 
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![kelly postcard front](/images/wydown/wydown-sketch.jpg){: .db .w-100 }
+![kelly postcard front]({{ site.baseurl }}/images/wydown/wydown-sketch.jpg){: .db .w-100 }
 </div>
 
 
 
 <div class="fl w-100  w-25-l ph2 " markdown="1">
-![kelly postcard back](/images/wydown/sketch/home.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/sketch/home.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-25-l ph2 " markdown="1">
-![kelly grid](/images/wydown/sketch/H.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/sketch/H.png){: .db .w-100 }
 </div>
 <div class="fl w-100  w-25-l ph2 " markdown="1">
-![kelly grid](/images/wydown/sketch/About.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/sketch/About.png){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  w-25-l ph2 " markdown="1">
-![kelly postcard back](/images/wydown/sketch/gallery.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/sketch/gallery.png){: .db .w-100 }
 </div>
 
 <!-- line -->
@@ -52,57 +52,57 @@ The thought for this site was to create something clean, beautiful, and responsi
 
 
 <div class="fl w-100 ph2 " markdown="1">
-![wydown sketch](/images/wydown/1.png){: .db .w-100 }
+![wydown sketch]({{ site.baseurl }}/images/wydown/1.png){: .db .w-100 }
 </div>
 
 
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly grid](/images/wydown/3.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/3.png){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly postcard back](/images/wydown/4-1.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/4-1.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![kelly grid](/images/wydown/4.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/4.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100 ph2 " markdown="1">
-![kelly postcard front](/images/wydown/2.png){: .db .w-100 }
+![kelly postcard front]({{ site.baseurl }}/images/wydown/2.png){: .db .w-100 }
 </div>
 
 <!-- mobile -->
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![kelly grid](/images/wydown/5-1-mob.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/5-1-mob.png){: .db .w-100 }
 </div>
 
 
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![kelly grid](/images/wydown/5-mob.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/5-mob.png){: .db .w-100 }
 </div>
 
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![kelly postcard back](/images/wydown/1-mob.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/1-mob.png){: .db .w-100 }
 </div>
 
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![kelly grid](/images/wydown/2-mob.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/2-mob.png){: .db .w-100 }
 </div>
 
 <div class="fl w-100 ph2 " markdown="1"/>
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly grid](/images/wydown/3-mob.png){: .db .w-100 }
+![kelly grid]({{ site.baseurl }}/images/wydown/3-mob.png){: .db .w-100 }
 </div>
 
 <div class="fl w-25-l w-50 ph2" markdown="1">
-![kelly postcard back](/images/wydown/4-1-mob.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/4-1-mob.png){: .db .w-100 }
 </div>
 
 <div class="fl w-25-l w-50 ph2 " markdown="1">
-![kelly postcard back](/images/wydown/4-mob.png){: .db .w-100 }
+![kelly postcard back]({{ site.baseurl }}/images/wydown/4-mob.png){: .db .w-100 }
 </div>
 
 

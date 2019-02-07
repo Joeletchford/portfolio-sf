@@ -26,24 +26,24 @@ For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was mad
 32 pages, 12 1/2 × 22, black plus 1 PMS, folded. visible you will always know what it is you are picking up.
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![hrc](/images/hrc/hrc-1.jpg){: .db .w-100 }
+![hrc]({{ site.baseurl }}/images/hrc/hrc-1.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![hrc](/images/hrc/hrc-2.jpg){: .db .w-100 }
+![hrc]({{ site.baseurl }}/images/hrc/hrc-2.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![hrc](/images/hrc/hrc-3.jpg){: .db .w-100 }
+![hrc]({{ site.baseurl }}/images/hrc/hrc-3.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-100-l ph2 mb5" markdown="1">
-![hrc](/images/hrc/hrc-4.jpg){: .db .w-100 }
+![hrc]({{ site.baseurl }}/images/hrc/hrc-4.jpg){: .db .w-100 }
 </div>
 
 Initial sketches for the proof of concept.
 
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![hrc](/images/hrc/sketches-1.png){: .db .w-100 }
+![hrc]({{ site.baseurl }}/images/hrc/sketches-1.png){: .db .w-100 }
 </div>
 
 

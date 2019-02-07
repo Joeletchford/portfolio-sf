@@ -20,10 +20,10 @@ This publication and web experience explores what it means to choose to disconne
 
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly logo](/images/disconnection/images/Thesis3.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/images/Thesis3.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  ph2 " markdown="1">
-![kelly logo](/images/disconnection/images/Thesis41.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/images/Thesis41.jpg){: .db .w-100 }
 </div>
 
 
@@ -32,10 +32,10 @@ Human connections are no longer limited to face-to-face encounters, mouth to ear
 
 
 <div class="fl w-100  ph2 " markdown="1">
-![kelly logo](/images/disconnection/images/Thesis33.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/images/Thesis33.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  ph2 " markdown="1">
-![kelly logo](/images/disconnection/images/Thesis10.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/images/Thesis10.jpg){: .db .w-100 }
 </div>
 
 
@@ -48,21 +48,21 @@ The main body of work created parallel with the written thesis publication. This
 
 
 <div class="fl w-100 w-100-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg2.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg2.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg7.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg7.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg3.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg3.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg4.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg4.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg6.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg6.jpg){: .db .w-100 }
 </div>
 
 
@@ -77,21 +77,21 @@ The main body of work created parallel with the written thesis publication. This
 
 
 <div class="fl w-100 w-100-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg2.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg2.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg7.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg7.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg3.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg3.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg4.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg4.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo](/images/disconnection/pg6.jpg){: .db .w-100 }
+![kelly logo]({{ site.baseurl }}/images/disconnection/pg6.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
