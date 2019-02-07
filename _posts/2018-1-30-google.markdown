@@ -22,11 +22,6 @@ style: f6 pv2 bb
 While working at Google I worked on numerous projects that ranged from branding, web design, publication design, and video art direction.
 
 
-<div class="fl w-100 ph2 " markdown="1">
-![game of the year home](/images/google/GameOfTheYear_1.png){: .db .w-100 }
-</div>
-
-
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
@@ -35,13 +30,95 @@ While working at Google I worked on numerous projects that ranged from branding,
 This past year I had the opportunity to work on a new initiative for Google's Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.
 
 
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 mb5" markdown="1">
+![game of the year home](/images/google/Google/GOTY/2.jpg){: .db .w-100 }
+</div>
+
+
+This past year I had the opportunity to work on a new initiative for Google's Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.
+
+
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/GameOfTheYear_1.png){: .db .w-100 }
+![game of the year home](/images/google/Google/GOTY/3.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/GameOfTheYear_4.png){: .db .w-100 }
+![game of the year home](/images/google/Google/GOTY/4.jpg){: .db .w-100 }
 </div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/5.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 mb5 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/6.jpg){: .db .w-100 }
+</div>
+
+
+Early explorations into the branding and host avatar.
+
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/7.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/8.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/GOTY/9.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns"> Search On Publication </p>
+
+One of my favorite projects at Google to date was the two week publication design sprint that was the Search on book. Myself and a small team of three were tasked with writing, designing, and producing this publication in two weeks, and we did it. This publication now sits on every executives desk and I like to think that Sundar has taken a peek and maybe appreciated that we created a printed piece.
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-2.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-4.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-5.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-6.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-7.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-8.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-9.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-10.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on](/images/google/search-on/012819-11.jpg){: .db .w-100 }
+</div>
+
 
 
 <!-- line -->
@@ -49,10 +126,9 @@ This past year I had the opportunity to work on a new initiative for Google's Ye
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Doodle for Google </p>
 
-The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
+Doodle for Google is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win some great scholarships and tech packages for their schools. This year we were tasked with updating the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this to life.
 
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
+<div class="fl w-100  w-100-l ph2 " markdown="1">
 ![doodle-4-google](/images/google/d4g/1.jpg){: .db .w-100 }
 </div>
 
@@ -66,50 +142,101 @@ The thought for this site was to create something clean, beautiful, and responsi
 </div>
 
 
-<div class="fl w-100  w-50-l ph2 " markdown="1">
+<div class="fl w-100  w-100-l ph2 " markdown="1">
 ![doodle-4-google](/images/google/d4g/4.jpg){: .db .w-100 }
 </div>
 
 
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns"> Google One  </p>
+
+I was brought to Google to help drive the direction of a new product they have since launched, Google One. For my first few months I set out to visually push the UI in an attempt to help set a new north star for the brand's future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of google products.
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/G1/g1-1.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/G1/g1-2.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home](/images/google/Google/G1/g1-3.jpg){: .db .w-100 }
+</div>
+
+
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
- <p class="alcove f4 f3-ns">Credits </p>
+<p class="alcove f4 f3-ns"> Design Is poster series</p>
 
- 
+One of the first projects I worked on when I got to brand studio was the redesign of the Design Is series. On top of driving the direction of the logo and system the speaker series took on, I leveraged the studios RISO to facilitate a collaborative poster making series. These posters were created to reflect the each talk specifically by pairing a new designer to each edition.
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/empty.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/business.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/listening.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/equitable.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/speculative.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home](/images/google/studio_culture/systematic.jpg){: .db .w-100 }
+</div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
-<p class="alcove f4 f3-ns"> Search On Publication </p>
+<p class="alcove f4 f3-ns"> Brand Studio Culture</p>
 
-The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.
-
-<div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/face.png){: .db .w-100 }
-</div>
+In collaboration with the designers at Brand Studio I created many different pieces of ephemera for the studio. Some of my favorites include pins that reference specific projects for the teammates to enjoy and postcards for the studio where all graphics were created using a form of collaboration I started back when I was in grad school—unintentional collaboration.
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/face-close.png){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/spine.png){: .db .w-100 }
+![studio pins](/images/google/studio_culture/pin.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/riding-section.png){: .db .w-100 }
+![design by all](/images/google/studio_culture/1-1.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/riding-section-close.png){: .db .w-100 }
+![design by all](/images/google/studio_culture/1.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/eye-fit-close.png){: .db .w-100 }
+![design by all](/images/google/studio_culture/2-1.jpg){: .db .w-100 }
 </div>
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home](/images/google/search-on/trees.png){: .db .w-100 }
+![design by all](/images/google/studio_culture/2.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/3-1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/3.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/6-1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/6.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/7-1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![design by all](/images/google/studio_culture/7.jpg){: .db .w-100 }
 </div>

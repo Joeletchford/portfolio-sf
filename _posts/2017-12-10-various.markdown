@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Various Projects"
+title:  "Logos and Various Projects"
 date:   2017-12-28 01:43:32 -0400
-img: images/various/print-mag.jpg
-head-img: images/various/hrc-1.png
+img: images/various/2-7-19/endless-brand.jpg
+head-img:
 year: 2017
 type: Publication, Web, Exhibition, Illustration, Infographic.  
 location: Minneapolis, Richmond, DC.
@@ -12,93 +12,81 @@ location: Minneapolis, Richmond, DC.
 <!--
 ![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
 
-<p class="alcove f4 f3-ns "> Half Baked, One-off, designed material to enjoy </p>
+<p class="alcove f4 f3-ns "> Various branding projects and one off designed material to enjoy </p>
 
 This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.
 
-<div class="fl w-50-l w-100 ph2 " markdown="1">
-![Half](/images/various/print-mag.gif){: .db .w-100 }
-</div>
-<div class="fl w-50-l w-100 ph2 " markdown="1">
-![Half](/images/various/print-mag.jpg){: .db .w-100 }
-</div>
 
+
+<!-- endless -->
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless](/images/various/2-7-19/endless-brand.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless](/images/various/2-7-19/endless-label.jpg){: .db .w-100 }
+</div>
 
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
-<div class="fl w-100 ph2 " markdown="1">
-![Half](/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
+<!-- two chimes  -->
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![2-chimes](/images/various/2-7-19/two-chimes.jpg){: .db .w-100 }
 </div>
-<div class="fl w-100 ph2 " markdown="1">
-![Half](/images/various/A4-Paper-PSD-MockUp-4.jpg){: .db .w-100 }
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![ugly](/images/various/2-7-19/ugly.jpg){: .db .w-100 }
 </div>
+
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 <div class="fl w-100 ph2 " markdown="1">
-![postcard](/images/various/postcard.png){: .db .w-100 }
+![rh](/images/various/postcard.png){: .db .w-100 }
 </div>
-
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh web](/images/various/RWD-browser_1.jpg){: .db .w-100 }
+![rh](/images/various/RWD-browser_1.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l  ph2 " markdown="1">
-![rh web](/images/various/RWD-browser_2.jpg){: .db .w-100 }
+![rh](/images/various/RWD-browser_2.jpg){: .db .w-100 }
 </div>
 
 
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh web](/images/various/RWD-browser_3.jpg){: .db .w-100 }
+![rh](/images/various/RWD-browser_3.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100 w-50-l ph2 " markdown="1">
-![rh web](/images/various/RWD-browser_4.jpg){: .db .w-100 }
+![rh](/images/various/RWD-browser_4.jpg){: .db .w-100 }
 </div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![Third Rail](/images/various/rowden.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-50-l  ph2 " markdown="1">
+![NYC postcard](/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 ph2 " markdown="1">
+![house as field ](/images/various/Paper-Tube-Mockup.jpg){: .db .w-100 }
+</div>
 <div class="fl w-100 ph2 " markdown="1">
-![Thesis diagram](/images/various/presentation31.jpg){: .db .w-100 }
+![house as field](/images/various/A4-Paper-PSD-MockUp-4.jpg){: .db .w-100 }
 </div>
-
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-
-<!-- flex box  -->
-<!-- <div class="w-100 center flex-l flex-nowrap-l" markdown="1">
-<div class="fl w-50-l w-100 ph2 " markdown="1">
-![look here](/images/various/6.jpg){: .db .w-100 }
-</div>
-<div class="flex-l flex-column" markdown="1">
-<div class="fl w-100 ph2 flex-column " markdown="1">
-![new americans](/images/various/7.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 ph2 flex-column" markdown="1">
-![new americans](/images/various/8.jpg){: .db .w-100 }
-</div>
-</div>
-</div> -->
-
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![fine arts](/images/various/3.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![fine arts](/images/various/4.jpg){: .db .w-100 }
-</div>
-
-
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-
-
-<div class="fl w-100 ph2 " markdown="1">
-![eyes](/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png){: .db .w-100 }
-</div>
-
-
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
@@ -111,17 +99,30 @@ This post is a collection of various projects and materials that I have created 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
-<div class="fl w-100 ph2 " markdown="1">
-![tobacco](/images/various/ tobacconomics_full.png){: .db .w-100 }
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![print](/images/various/print-mag.gif){: .db .w-100 }
 </div>
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![print](/images/various/print-mag.jpg){: .db .w-100 }
+</div>
+
 
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 
+
 <div class="fl w-100 ph2 " markdown="1">
 ![baseline](/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 ph2 " markdown="1">
+![Thesis diagram](/images/various/presentation31.jpg){: .db .w-100 }
 </div>
 
 
@@ -139,19 +140,12 @@ This post is a collection of various projects and materials that I have created 
 ![thesis](/images/various/Thesis30.jpg){: .db .w-100 }
 </div>
 
-
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![Third Rail](/images/various/rowden.jpg){: .db .w-100 }
-</div>
-
-
-
-<div class="fl w-100 w-50-l  ph2 " markdown="1">
-![NYC postcard](/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+<div class="fl w-100 ph2 " markdown="1">
+![eyes](/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png){: .db .w-100 }
 </div>
 
 

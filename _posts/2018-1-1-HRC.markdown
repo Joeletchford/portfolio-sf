@@ -2,8 +2,8 @@
 layout: post
 title:  "Human Rights Campaign 2018"
 date:   2017-12-28 01:43:32 -0400
-img: 		/images/hrc/hrc-cover.jpg
-head-img:  /images/hrc/hrc-cover.jpg
+img: 		/images/hrc/hrc-2.jpg
+head-img:  /images/hrc/hrc-1.jpg
 year: 2017–18
 type: Publication.  
 location: Washington, DC
@@ -26,15 +26,25 @@ For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was mad
 32 pages, 12 1/2 × 22, black plus 1 PMS, folded. visible you will always know what it is you are picking up.
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo](/images/hrc/hrc-cover.jpg){: .db .w-100 }
+![hrc](/images/hrc/hrc-1.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo](/images/hrc/hrc-1.jpg){: .db .w-100 }
+![hrc](/images/hrc/hrc-2.jpg){: .db .w-100 }
 </div>
 <div class="fl w-100  pr2-l pb2" markdown="1">
-![kelly logo](/images/hrc/hrc-2.jpg){: .db .w-100 }
+![hrc](/images/hrc/hrc-3.jpg){: .db .w-100 }
 </div>
 
+<div class="fl w-100  w-100-l ph2 mb5" markdown="1">
+![hrc](/images/hrc/hrc-4.jpg){: .db .w-100 }
+</div>
+
+Initial sketches for the proof of concept.
+
+
+<div class="fl w-100  pr2-l pb2" markdown="1">
+![hrc](/images/hrc/sketches-1.png){: .db .w-100 }
+</div>
 
 
 <!-- line -->
@@ -42,14 +52,9 @@ For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was mad
 <!-- h2 -->
  <p class="alcove f4 f3-ns">Credits </p>
 
+
+
+
  Joe Letchford, designer
 
- Sucha Becky, art director
-
- Pum Lefebure, creative director
-
- Jake Lefebure, project manager
-
- Design Army, design firm
-
- Human Rights Campaign, client
+ Sucha Becky, art director 	&int; Pum Lefebure, creative director 	&int; Jake Lefebure, project manager 	&int; Design Army, design firm
